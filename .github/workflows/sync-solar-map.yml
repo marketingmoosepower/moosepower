@@ -1,5 +1,5 @@
 # GitHub Action: Sync Solar Map Data
-# 
+#
 # This workflow:
 # 1. Reads data from Google Sheets
 # 2. Fetches images from ImageKit
@@ -13,7 +13,7 @@ name: Sync Solar Map
 on:
   # Manual trigger
   workflow_dispatch:
-  
+
   # Scheduled: Run daily at 6 AM UTC
   schedule:
     - cron: '0 6 * * *'
@@ -21,19 +21,19 @@ on:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-      
+
       - name: Install dependencies
         run: npm install googleapis node-fetch
-      
+
       - name: Create sync script
         run: |
           cat > sync.js << 'EOF'
@@ -181,8 +181,8 @@ jobs:
             console.log(`✅ Generated ${projects.length} projects`);
             
             // Save to file
-            fs.writeFileSync('projects-data.json', JSON.stringify(projects, null, 2));
-            console.log('📁 Saved projects-data.json');
+            fs.writeFileSync('projects-data-test.json', JSON.stringify(projects, null, 2));
+            console.log('📁 Saved projects-data-test.json');
           }
 
           main().catch(err => {
@@ -190,17 +190,17 @@ jobs:
             process.exit(1);
           });
           EOF
-      
+
       - name: Run sync script
         env:
           GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
           IMAGEKIT_PRIVATE_KEY: ${{ secrets.IMAGEKIT_PRIVATE_KEY }}
         run: node sync.js
-      
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add projects-data.json
-          git diff --staged --quiet || git commit -m "Auto-sync: Update projects data"
+          git add projects-data-test.json
+          git diff --staged --quiet || git commit -m "Auto-sync: Update projects data (test)"
           git push
