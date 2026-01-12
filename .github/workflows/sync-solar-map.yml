@@ -17,6 +17,9 @@ on:
   # Scheduled: Run daily at 6 AM UTC
   schedule:
     - cron: '0 6 * * *'
+    
+permissions:
+  contents: write
 
 jobs:
   sync:
