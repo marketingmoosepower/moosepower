@@ -48,7 +48,7 @@ jobs:
           // Configuration
           const SPREADSHEET_ID = '17Kh4gbJNhrd-2lp7rRPRJSDlBwpA5TU21oceIqV2cwY';
           const SHEET_NAME = 'External';
-          const PHOTOS_FOLDER_ID = '19nAnSH9qthjjXOaODWVty67Tv6Q28pqO';
+          const PHOTOS_FOLDER_ID = '151q4A4vr7rnP0_oCKf4EJas0ZzNYhVII';
           const IMAGEKIT_PRIVATE_KEY = process.env.IMAGEKIT_PRIVATE_KEY;
           const IMAGEKIT_FOLDER = '/solar-map';
 
