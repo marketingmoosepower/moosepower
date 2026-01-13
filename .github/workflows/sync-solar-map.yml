@@ -253,7 +253,9 @@ jobs:
               const existingNames = existingByProject[projectNum] || new Set();
               
               for (const file of files) {
-                if (existingNames.has(file.name)) {
+                // Sanitize filename to match how it's stored in ImageKit
+                const sanitizedName = file.name.replace(/[^a-zA-Z0-9._-]/g, '_');
+                if (existingNames.has(sanitizedName)) {
                   skipped++;
                   continue;
                 }
