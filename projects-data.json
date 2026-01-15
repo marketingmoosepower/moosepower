@@ -2,7 +2,7 @@
   {
     "projectNum": "28",
     "address": "40 St George St, Toronto, ON M5S 2E4, Canada",
-    "owner": "University of Toronto",
+    "owner": "Uuniveristy of Toronto",
     "capacity": 190.75,
     "year": 2023,
     "program": "NEM",
@@ -19,29 +19,26 @@
         "name": "40StGeorge1.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-28/40StGeorge1.JPG?updatedAt=1766439980438",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-28/40StGeorge1.JPG?updatedAt=1766439980438",
-        "fileId": "6945573d5c7cd75eb8e86da8",
-        "size": 6730157
+        "fileId": "6945573d5c7cd75eb8e86da8"
       },
       {
         "name": "S1002199_DoNotUse.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-28/S1002199_DoNotUse.JPG?updatedAt=1766440446602",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-28/S1002199_DoNotUse.JPG?updatedAt=1766440446602",
-        "fileId": "6945574c5c7cd75eb8e8c965",
-        "size": 5418902
+        "fileId": "6945574c5c7cd75eb8e8c965"
       },
       {
         "name": "S1002200.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-28/S1002200.JPG?updatedAt=1766440459101",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-28/S1002200.JPG?updatedAt=1766440459101",
-        "fileId": "6945575e5c7cd75eb8e93290",
-        "size": 6730157
+        "fileId": "6945575e5c7cd75eb8e93290"
       }
     ]
   },
   {
     "projectNum": "29",
     "address": "4961 Dufferin St, North York, ON M3H 5T8, Canada",
-    "owner": "University of Toronto",
+    "owner": "Uuniveristy of Toronto",
     "capacity": 541.34,
     "year": 2025,
     "program": "NEM",
@@ -52,56 +49,49 @@
     "inverter": "Solis",
     "notes": "",
     "lat": 43.7839089,
-    "lng": -79.46873579999999,
+    "lng": -79.4687358,
     "images": [
       {
         "name": "4961Dufferin1.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-29/4961Dufferin1.JPG?updatedAt=1766440464453",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-29/4961Dufferin1.JPG?updatedAt=1766440464453",
-        "fileId": "694557645c7cd75eb8e94fb7",
-        "size": 1808595
+        "fileId": "694557645c7cd75eb8e94fb7"
       },
       {
         "name": "29._U_of_T_UTL.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-29/29._U_of_T_UTL.JPG?updatedAt=1766440468042",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-29/29._U_of_T_UTL.JPG?updatedAt=1766440468042",
-        "fileId": "694557685c7cd75eb8e972ac",
-        "size": 1808595
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-29/29._U_of_T_UTL.JPG?updatedAt=1768296252451",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-29/29._U_of_T_UTL.JPG?updatedAt=1768296252451",
+        "fileId": "694557685c7cd75eb8e972ac"
       },
       {
         "name": "S1017197.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-29/S1017197.JPG?updatedAt=1766440481926",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-29/S1017197.JPG?updatedAt=1766440481926",
-        "fileId": "694557795c7cd75eb8e9c986",
-        "size": 7010635
+        "fileId": "694557795c7cd75eb8e9c986"
       },
       {
         "name": "S1016067.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-29/S1016067.JPG?updatedAt=1766440499970",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-29/S1016067.JPG?updatedAt=1766440499970",
-        "fileId": "694557915c7cd75eb8ea54f1",
-        "size": 9091334
+        "fileId": "694557915c7cd75eb8ea54f1"
       },
       {
         "name": "S1016059.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-29/S1016059.JPG?updatedAt=1766440521101",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-29/S1016059.JPG?updatedAt=1766440521101",
-        "fileId": "694557a85c7cd75eb8eabfe9",
-        "size": 8319357
+        "fileId": "694557a85c7cd75eb8eabfe9"
       },
       {
         "name": "S1010259.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-29/S1010259.JPG?updatedAt=1766440537167",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-29/S1010259.JPG?updatedAt=1766440537167",
-        "fileId": "694557bc5c7cd75eb8eb144c",
-        "size": 7546903
+        "fileId": "694557bc5c7cd75eb8eb144c"
       },
       {
         "name": "S1010257.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-29/S1010257.JPG?updatedAt=1766440548456",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-29/S1010257.JPG?updatedAt=1766440548456",
-        "fileId": "694557ce5c7cd75eb8eb9674",
-        "size": 5995918
+        "fileId": "694557ce5c7cd75eb8eb9674"
       }
     ]
   },
@@ -125,36 +115,31 @@
         "name": "901Cosburn1.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-30/901Cosburn1.JPG?updatedAt=1766440564775",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-30/901Cosburn1.JPG?updatedAt=1766440564775",
-        "fileId": "694557e45c7cd75eb8ec229d",
-        "size": 7092285
+        "fileId": "694557e45c7cd75eb8ec229d"
       },
       {
         "name": "S1009927.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-30/S1009927.JPG?updatedAt=1766440577495",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-30/S1009927.JPG?updatedAt=1766440577495",
-        "fileId": "694557fe5c7cd75eb8ecaf0a",
-        "size": 7194145
+        "fileId": "694557fe5c7cd75eb8ecaf0a"
       },
       {
         "name": "S1009908.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-30/S1009908.JPG?updatedAt=1766440593566",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-30/S1009908.JPG?updatedAt=1766440593566",
-        "fileId": "694558125c7cd75eb8ed1a0e",
-        "size": 7787750
+        "fileId": "694558125c7cd75eb8ed1a0e"
       },
       {
         "name": "S1009902.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-30/S1009902.JPG?updatedAt=1766440609025",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-30/S1009902.JPG?updatedAt=1766440609025",
-        "fileId": "694558255c7cd75eb8ed7e1b",
-        "size": 8206720
+        "fileId": "694558255c7cd75eb8ed7e1b"
       },
       {
         "name": "S1009900.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-30/S1009900.JPG?updatedAt=1766441382323",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-30/S1009900.JPG?updatedAt=1766441382323",
-        "fileId": "6945583b5c7cd75eb8ee0a5f",
-        "size": 8264534
+        "fileId": "6945583b5c7cd75eb8ee0a5f"
       }
     ]
   },
@@ -172,14 +157,13 @@
     "inverter": "SolarEdge",
     "notes": "",
     "lat": 43.639439,
-    "lng": -79.51921320000001,
+    "lng": -79.5192132,
     "images": [
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-31/Coming1.gif?updatedAt=1766440628250",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-31/Coming1.gif?updatedAt=1766440628250",
-        "fileId": "6945583e5c7cd75eb8ee1e5f",
-        "size": 823428
+        "fileId": "6945583e5c7cd75eb8ee1e5f"
       }
     ]
   },
@@ -203,22 +187,19 @@
         "name": "S1009889F.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-32/S1009889F.JPG?updatedAt=1766440633286",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-32/S1009889F.JPG?updatedAt=1766440633286",
-        "fileId": "694558435c7cd75eb8ee3463",
-        "size": 1450434
+        "fileId": "694558435c7cd75eb8ee3463"
       },
       {
         "name": "S1009894.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-32/S1009894.JPG?updatedAt=1766440646970",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-32/S1009894.JPG?updatedAt=1766440646970",
-        "fileId": "694558565c7cd75eb8eea15a",
-        "size": 7691104
+        "fileId": "694558565c7cd75eb8eea15a"
       },
       {
         "name": "S1009889.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-32/S1009889.JPG?updatedAt=1766440663291",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-32/S1009889.JPG?updatedAt=1766440663291",
-        "fileId": "694559975c7cd75eb8f685cb",
-        "size": 7863679
+        "fileId": "694559975c7cd75eb8f685cb"
       }
     ]
   },
@@ -242,71 +223,61 @@
         "name": "S1010254.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-33/S1010254.JPG?updatedAt=1766440680412",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-33/S1010254.JPG?updatedAt=1766440680412",
-        "fileId": "694559ad5c7cd75eb8f70a61",
-        "size": 8306486
+        "fileId": "694559ad5c7cd75eb8f70a61"
       },
       {
         "name": "S1010253.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-33/S1010253.JPG?updatedAt=1766441397427",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-33/S1010253.JPG?updatedAt=1766441397427",
-        "fileId": "694559c05c7cd75eb8f776fe",
-        "size": 8549247
+        "fileId": "694559c05c7cd75eb8f776fe"
       },
       {
         "name": "S1010252.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-33/S1010252.JPG?updatedAt=1766440711689",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-33/S1010252.JPG?updatedAt=1766440711689",
-        "fileId": "694559d35c7cd75eb8f7faa7",
-        "size": 8191612
+        "fileId": "694559d35c7cd75eb8f7faa7"
       },
       {
         "name": "S1010250.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-33/S1010250.JPG?updatedAt=1766440724724",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-33/S1010250.JPG?updatedAt=1766440724724",
-        "fileId": "694559e45c7cd75eb8f86245",
-        "size": 7311745
+        "fileId": "694559e45c7cd75eb8f86245"
       },
       {
         "name": "S1010249.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-33/S1010249.JPG?updatedAt=1766440737807",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-33/S1010249.JPG?updatedAt=1766440737807",
-        "fileId": "694559f85c7cd75eb8f8d9bf",
-        "size": 6704847
+        "fileId": "694559f85c7cd75eb8f8d9bf"
       },
       {
         "name": "S1010247.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-33/S1010247.JPG?updatedAt=1766441408548",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-33/S1010247.JPG?updatedAt=1766441408548",
-        "fileId": "69455a0c5c7cd75eb8f94a6c",
-        "size": 7302123
+        "fileId": "69455a0c5c7cd75eb8f94a6c"
       },
       {
         "name": "S1010242.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-33/S1010242.JPG?updatedAt=1766441419838",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-33/S1010242.JPG?updatedAt=1766441419838",
-        "fileId": "69455a1f5c7cd75eb8f9a8f5",
-        "size": 7436008
+        "fileId": "69455a1f5c7cd75eb8f9a8f5"
       },
       {
         "name": "S1010235.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-33/S1010235.JPG?updatedAt=1766441430883",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-33/S1010235.JPG?updatedAt=1766441430883",
-        "fileId": "69455a2e5c7cd75eb8fa27ec",
-        "size": 6258371
+        "fileId": "69455a2e5c7cd75eb8fa27ec"
       },
       {
         "name": "S1010234.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-33/S1010234.JPG?updatedAt=1766441444127",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-33/S1010234.JPG?updatedAt=1766441444127",
-        "fileId": "69455a405c7cd75eb8fa9999",
-        "size": 7547416
+        "fileId": "69455a405c7cd75eb8fa9999"
       },
       {
         "name": "S1010229.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-33/S1010229.JPG?updatedAt=1766441457480",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-33/S1010229.JPG?updatedAt=1766441457480",
-        "fileId": "69455a525c7cd75eb8fb0e7f",
-        "size": 7656149
+        "fileId": "69455a525c7cd75eb8fb0e7f"
       }
     ]
   },
@@ -330,50 +301,43 @@
         "name": "S1009867.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-34/S1009867.JPG?updatedAt=1766441479991",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-34/S1009867.JPG?updatedAt=1766441479991",
-        "fileId": "69455a745c7cd75eb8fbf15b",
-        "size": 7454346
+        "fileId": "69455a745c7cd75eb8fbf15b"
       },
       {
         "name": "S1009866.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-34/S1009866.JPG?updatedAt=1766441494078",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-34/S1009866.JPG?updatedAt=1766441494078",
-        "fileId": "69455a885c7cd75eb8fc883e",
-        "size": 7366283
+        "fileId": "69455a885c7cd75eb8fc883e"
       },
       {
         "name": "S1009862.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-34/S1009862.JPG?updatedAt=1766441505997",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-34/S1009862.JPG?updatedAt=1766441505997",
-        "fileId": "69455a9d5c7cd75eb8fd1f29",
-        "size": 7030016
+        "fileId": "69455a9d5c7cd75eb8fd1f29"
       },
       {
         "name": "S1009860.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-34/S1009860.JPG?updatedAt=1766441516032",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-34/S1009860.JPG?updatedAt=1766441516032",
-        "fileId": "69455ac15c7cd75eb8fe2511",
-        "size": 6725169
+        "fileId": "69455ac15c7cd75eb8fe2511"
       },
       {
         "name": "S1009869.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-34/S1009869.JPG?updatedAt=1766441468247",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-34/S1009869.JPG?updatedAt=1766441468247",
-        "fileId": "69455bf05c7cd75eb8060e97",
-        "size": 6337672
+        "fileId": "69455bf05c7cd75eb8060e97"
       },
       {
         "name": "S1009852.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-34/S1009852.JPG?updatedAt=1766441530242",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-34/S1009852.JPG?updatedAt=1766441530242",
-        "fileId": "69455c005c7cd75eb8065ce1",
-        "size": 7733833
+        "fileId": "69455c005c7cd75eb8065ce1"
       },
       {
         "name": "S1009846.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-34/S1009846.JPG?updatedAt=1766441541178",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-34/S1009846.JPG?updatedAt=1766441541178",
-        "fileId": "69455c0e5c7cd75eb806c15a",
-        "size": 6448684
+        "fileId": "69455c0e5c7cd75eb806c15a"
       }
     ]
   },
@@ -397,36 +361,31 @@
         "name": "S1010052.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-35/S1010052.JPG?updatedAt=1766441554042",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-35/S1010052.JPG?updatedAt=1766441554042",
-        "fileId": "69455c245c7cd75eb8074cf5",
-        "size": 7876022
+        "fileId": "69455c245c7cd75eb8074cf5"
       },
       {
         "name": "S1010048.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-35/S1010048.JPG?updatedAt=1766441565688",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-35/S1010048.JPG?updatedAt=1766441565688",
-        "fileId": "69455c345c7cd75eb807aeb7",
-        "size": 6797184
+        "fileId": "69455c345c7cd75eb807aeb7"
       },
       {
         "name": "S1009988.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-35/S1009988.JPG?updatedAt=1766441578198",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-35/S1009988.JPG?updatedAt=1766441578198",
-        "fileId": "69455c4b5c7cd75eb8083253",
-        "size": 8235748
+        "fileId": "69455c4b5c7cd75eb8083253"
       },
       {
         "name": "S1009987.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-35/S1009987.JPG?updatedAt=1766441592586",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-35/S1009987.JPG?updatedAt=1766441592586",
-        "fileId": "69455c5f5c7cd75eb80929c8",
-        "size": 7585143
+        "fileId": "69455c5f5c7cd75eb80929c8"
       },
       {
         "name": "S1009978.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-35/S1009978.JPG?updatedAt=1766441606362",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-35/S1009978.JPG?updatedAt=1766441606362",
-        "fileId": "69455c7b5c7cd75eb80ab919",
-        "size": 7993868
+        "fileId": "69455c7b5c7cd75eb80ab919"
       }
     ]
   },
@@ -450,36 +409,31 @@
         "name": "S1009956F.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-36/S1009956F.JPG?updatedAt=1766441610538",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-36/S1009956F.JPG?updatedAt=1766441610538",
-        "fileId": "69455c825c7cd75eb80b0d89",
-        "size": 1387268
+        "fileId": "69455c825c7cd75eb80b0d89"
       },
       {
         "name": "S1009959.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-36/S1009959.JPG?updatedAt=1766441621501",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-36/S1009959.JPG?updatedAt=1766441621501",
-        "fileId": "69455c925c7cd75eb80bedb9",
-        "size": 7020558
+        "fileId": "69455c925c7cd75eb80bedb9"
       },
       {
         "name": "S1009957.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-36/S1009957.JPG?updatedAt=1766441634593",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-36/S1009957.JPG?updatedAt=1766441634593",
-        "fileId": "69455ca85c7cd75eb80d326e",
-        "size": 7588297
+        "fileId": "69455ca85c7cd75eb80d326e"
       },
       {
         "name": "S1009956.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-36/S1009956.JPG?updatedAt=1766441647795",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-36/S1009956.JPG?updatedAt=1766441647795",
-        "fileId": "69455cc05c7cd75eb80e7ba8",
-        "size": 7871284
+        "fileId": "69455cc05c7cd75eb80e7ba8"
       },
       {
         "name": "S1009949.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-36/S1009949.JPG?updatedAt=1766441661094",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-36/S1009949.JPG?updatedAt=1766441661094",
-        "fileId": "69455cd35c7cd75eb80f9c3b",
-        "size": 7874677
+        "fileId": "69455cd35c7cd75eb80f9c3b"
       }
     ]
   },
@@ -496,15 +450,14 @@
     "racking": "Terragen",
     "inverter": "SolarEdge",
     "notes": "",
-    "lat": 43.66282229999999,
-    "lng": -79.33854560000002,
+    "lat": 43.6628223,
+    "lng": -79.3385456,
     "images": [
       {
         "name": "IMG_0510_Large.jpeg",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-37/IMG_0510_Large.jpeg?updatedAt=1766441663320",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-37/IMG_0510_Large.jpeg?updatedAt=1766441663320",
-        "fileId": "69455cd85c7cd75eb80fefb8",
-        "size": 447630
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-37/IMG_0510_Large.jpeg?updatedAt=1768296306993",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-37/IMG_0510_Large.jpeg?updatedAt=1768296306993",
+        "fileId": "69455cd85c7cd75eb80fefb8"
       }
     ]
   },
@@ -522,21 +475,19 @@
     "inverter": "SolarEdge",
     "notes": "",
     "lat": 43.7402627,
-    "lng": -79.58645680000001,
+    "lng": -79.5864568,
     "images": [
       {
         "name": "S1010581.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-38/S1010581.JPG?updatedAt=1766441675944",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-38/S1010581.JPG?updatedAt=1766441675944",
-        "fileId": "69455cee5c7cd75eb8111807",
-        "size": 7080878
+        "fileId": "69455cee5c7cd75eb8111807"
       },
       {
         "name": "S1010531.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-38/S1010531.JPG?updatedAt=1766442022821",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-38/S1010531.JPG?updatedAt=1766442022821",
-        "fileId": "69455d005c7cd75eb81228e6",
-        "size": 7931055
+        "fileId": "69455d005c7cd75eb81228e6"
       }
     ]
   },
@@ -553,15 +504,14 @@
     "racking": "Terragen",
     "inverter": "SolarEdge",
     "notes": "",
-    "lat": 43.67572029999999,
+    "lat": 43.6757203,
     "lng": -79.5712692,
     "images": [
       {
         "name": "S1010624.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-39/S1010624.JPG?updatedAt=1766442037023",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-39/S1010624.JPG?updatedAt=1766442037023",
-        "fileId": "69455d135c7cd75eb81330a4",
-        "size": 7678965
+        "fileId": "69455d135c7cd75eb81330a4"
       }
     ]
   },
@@ -585,43 +535,37 @@
         "name": "S1006597F.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-40/S1006597F.JPG?updatedAt=1766442040838",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-40/S1006597F.JPG?updatedAt=1766442040838",
-        "fileId": "69455e395c7cd75eb81b5a06",
-        "size": 1557585
+        "fileId": "69455e395c7cd75eb81b5a06"
       },
       {
         "name": "S1006597.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-40/S1006597.JPG?updatedAt=1766442055059",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-40/S1006597.JPG?updatedAt=1766442055059",
-        "fileId": "69455e5e5c7cd75eb81c3748",
-        "size": 8480084
+        "fileId": "69455e5e5c7cd75eb81c3748"
       },
       {
         "name": "S1006591.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-40/S1006591.JPG?updatedAt=1766442066318",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-40/S1006591.JPG?updatedAt=1766442066318",
-        "fileId": "69455e6c5c7cd75eb81ca6aa",
-        "size": 5865741
+        "fileId": "69455e6c5c7cd75eb81ca6aa"
       },
       {
         "name": "S1006585.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-40/S1006585.JPG?updatedAt=1766442080501",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-40/S1006585.JPG?updatedAt=1766442080501",
-        "fileId": "69455e7e5c7cd75eb81d4781",
-        "size": 8073787
+        "fileId": "69455e7e5c7cd75eb81d4781"
       },
       {
         "name": "S1006557.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-40/S1006557.JPG?updatedAt=1766442092056",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-40/S1006557.JPG?updatedAt=1766442092056",
-        "fileId": "69455e8e5c7cd75eb81dcb6c",
-        "size": 7324971
+        "fileId": "69455e8e5c7cd75eb81dcb6c"
       },
       {
         "name": "S1006555.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-40/S1006555.JPG?updatedAt=1766442107525",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-40/S1006555.JPG?updatedAt=1766442107525",
-        "fileId": "69455ea45c7cd75eb81e4bc9",
-        "size": 8024655
+        "fileId": "69455ea45c7cd75eb81e4bc9"
       }
     ]
   },
@@ -643,17 +587,15 @@
     "images": [
       {
         "name": "Leslie_nymark_F.png",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-41/Leslie_nymark_F.png?updatedAt=1766442111328",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-41/Leslie_nymark_F.png?updatedAt=1766442111328",
-        "fileId": "69455eaa5c7cd75eb81e68e3",
-        "size": 1224918
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-41/Leslie_nymark_F.png?updatedAt=1768296303164",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-41/Leslie_nymark_F.png?updatedAt=1768296303164",
+        "fileId": "69455eaa5c7cd75eb81e68e3"
       },
       {
         "name": "Leslie_Nymark.png",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-41/Leslie_Nymark.png?updatedAt=1766442112598",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-41/Leslie_Nymark.png?updatedAt=1766442112598",
-        "fileId": "69455eab5c7cd75eb81e72b6",
-        "size": 165644
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-41/Leslie_Nymark.png?updatedAt=1768296304117",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-41/Leslie_Nymark.png?updatedAt=1768296304117",
+        "fileId": "69455eab5c7cd75eb81e72b6"
       }
     ]
   },
@@ -671,28 +613,25 @@
     "inverter": "SolarEdge",
     "notes": "",
     "lat": 43.7227526,
-    "lng": -79.44603980000001,
+    "lng": -79.4460398,
     "images": [
       {
         "name": "DJI_0617F.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-42/DJI_0617F.JPG?updatedAt=1766442117121",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-42/DJI_0617F.JPG?updatedAt=1766442117121",
-        "fileId": "69455eb35c7cd75eb81eb259",
-        "size": 2099185
+        "fileId": "69455eb35c7cd75eb81eb259"
       },
       {
         "name": "DJI_0617.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-42/DJI_0617.JPG?updatedAt=1766442128582",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-42/DJI_0617.JPG?updatedAt=1766442128582",
-        "fileId": "69455ec35c7cd75eb81f0cca",
-        "size": 6861777
+        "fileId": "69455ec35c7cd75eb81f0cca"
       },
       {
         "name": "DJI_0615.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-42/DJI_0615.JPG?updatedAt=1766442142138",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-42/DJI_0615.JPG?updatedAt=1766442142138",
-        "fileId": "69455ed35c7cd75eb81f5edf",
-        "size": 6694103
+        "fileId": "69455ed35c7cd75eb81f5edf"
       }
     ]
   },
@@ -716,8 +655,7 @@
         "name": "S1008553.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-43/S1008553.JPG?updatedAt=1766442157656",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-43/S1008553.JPG?updatedAt=1766442157656",
-        "fileId": "69455ee75c7cd75eb81ffaa5",
-        "size": 8713166
+        "fileId": "69455ee75c7cd75eb81ffaa5"
       }
     ]
   },
@@ -741,43 +679,37 @@
         "name": "S1009038.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-44/S1009038.JPG?updatedAt=1766442169756",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-44/S1009038.JPG?updatedAt=1766442169756",
-        "fileId": "69455ef75c7cd75eb820535b",
-        "size": 5608076
+        "fileId": "69455ef75c7cd75eb820535b"
       },
       {
         "name": "S1009037.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-44/S1009037.JPG?updatedAt=1766442180725",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-44/S1009037.JPG?updatedAt=1766442180725",
-        "fileId": "69455f055c7cd75eb820a0d1",
-        "size": 5640426
+        "fileId": "69455f055c7cd75eb820a0d1"
       },
       {
         "name": "S1009029.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-44/S1009029.JPG?updatedAt=1766442195718",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-44/S1009029.JPG?updatedAt=1766442195718",
-        "fileId": "69455f175c7cd75eb8210c4d",
-        "size": 7597665
+        "fileId": "69455f175c7cd75eb8210c4d"
       },
       {
         "name": "S1009024.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-44/S1009024.JPG?updatedAt=1766442210215",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-44/S1009024.JPG?updatedAt=1766442210215",
-        "fileId": "69455f2a5c7cd75eb8218ac4",
-        "size": 7543320
+        "fileId": "69455f2a5c7cd75eb8218ac4"
       },
       {
         "name": "S1009019.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-44/S1009019.JPG?updatedAt=1766442227943",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-44/S1009019.JPG?updatedAt=1766442227943",
-        "fileId": "69455f3c5c7cd75eb8220d78",
-        "size": 6224989
+        "fileId": "69455f3c5c7cd75eb8220d78"
       },
       {
         "name": "S1009015.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-44/S1009015.JPG?updatedAt=1766442241250",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-44/S1009015.JPG?updatedAt=1766442241250",
-        "fileId": "69455f4b5c7cd75eb8225f71",
-        "size": 6467701
+        "fileId": "69455f4b5c7cd75eb8225f71"
       }
     ]
   },
@@ -812,7 +744,7 @@
     "inverter": "Chint Power Systems",
     "notes": "",
     "lat": 43.7294657,
-    "lng": -79.44054129999999,
+    "lng": -79.4405413,
     "images": []
   },
   {
@@ -835,22 +767,19 @@
         "name": "S1013973.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-47/S1013973.JPG?updatedAt=1766442260442",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-47/S1013973.JPG?updatedAt=1766442260442",
-        "fileId": "69455f5c5c7cd75eb822c8f6",
-        "size": 7992754
+        "fileId": "69455f5c5c7cd75eb822c8f6"
       },
       {
         "name": "S1013972.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-47/S1013972.JPG?updatedAt=1766442275062",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-47/S1013972.JPG?updatedAt=1766442275062",
-        "fileId": "69455f6d5c7cd75eb823412b",
-        "size": 7737973
+        "fileId": "69455f6d5c7cd75eb823412b"
       },
       {
         "name": "S1013971.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-47/S1013971.JPG?updatedAt=1766442290274",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-47/S1013971.JPG?updatedAt=1766442290274",
-        "fileId": "694560ab5c7cd75eb82b2414",
-        "size": 7497254
+        "fileId": "694560ab5c7cd75eb82b2414"
       }
     ]
   },
@@ -868,35 +797,31 @@
     "inverter": "SolarEdge",
     "notes": "",
     "lat": 43.6738993,
-    "lng": -79.42254539999999,
+    "lng": -79.4225454,
     "images": [
       {
         "name": "S1020549.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-48/S1020549.JPG?updatedAt=1766442307106",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-48/S1020549.JPG?updatedAt=1766442307106",
-        "fileId": "694560bd5c7cd75eb82b9337",
-        "size": 8288600
+        "fileId": "694560bd5c7cd75eb82b9337"
       },
       {
         "name": "S1020548.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-48/S1020548.JPG?updatedAt=1766442589174",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-48/S1020548.JPG?updatedAt=1766442589174",
-        "fileId": "694560d15c7cd75eb82bff0d",
-        "size": 8316615
+        "fileId": "694560d15c7cd75eb82bff0d"
       },
       {
         "name": "S1020545.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-48/S1020545.JPG?updatedAt=1766442603101",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-48/S1020545.JPG?updatedAt=1766442603101",
-        "fileId": "694560e75c7cd75eb82c76fb",
-        "size": 8018099
+        "fileId": "694560e75c7cd75eb82c76fb"
       },
       {
         "name": "S1020542.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-48/S1020542.JPG?updatedAt=1766442617313",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-48/S1020542.JPG?updatedAt=1766442617313",
-        "fileId": "694560f85c7cd75eb82cea90",
-        "size": 7356436
+        "fileId": "694560f85c7cd75eb82cea90"
       }
     ]
   },
@@ -914,21 +839,19 @@
     "inverter": "Solis",
     "notes": "",
     "lat": 43.7171945,
-    "lng": -79.3009967,
+    "lng": -79.3009968,
     "images": [
       {
         "name": "S1018425.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-49/S1018425.JPG?updatedAt=1766442629858",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-49/S1018425.JPG?updatedAt=1766442629858",
-        "fileId": "694561095c7cd75eb82d438d",
-        "size": 6681600
+        "fileId": "694561095c7cd75eb82d438d"
       },
       {
         "name": "S1018424.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-49/S1018424.JPG?updatedAt=1766442642923",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-49/S1018424.JPG?updatedAt=1766442642923",
-        "fileId": "694561185c7cd75eb82d9071",
-        "size": 7100878
+        "fileId": "694561185c7cd75eb82d9071"
       }
     ]
   },
@@ -952,15 +875,13 @@
         "name": "S1017101.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-50/S1017101.JPG?updatedAt=1766442665821",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-50/S1017101.JPG?updatedAt=1766442665821",
-        "fileId": "6945612f5c7cd75eb82e26c6",
-        "size": 7962775
+        "fileId": "6945612f5c7cd75eb82e26c6"
       },
       {
         "name": "S1017074.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-50/S1017074.JPG?updatedAt=1766442679478",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-50/S1017074.JPG?updatedAt=1766442679478",
-        "fileId": "694561415c7cd75eb82e8acb",
-        "size": 7700209
+        "fileId": "694561415c7cd75eb82e8acb"
       }
     ]
   },
@@ -984,29 +905,25 @@
         "name": "S1020738.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-53/S1020738.JPG?updatedAt=1766442693421",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-53/S1020738.JPG?updatedAt=1766442693421",
-        "fileId": "694561545c7cd75eb82f0416",
-        "size": 7019739
+        "fileId": "694561545c7cd75eb82f0416"
       },
       {
         "name": "S1020736.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-53/S1020736.JPG?updatedAt=1766442706588",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-53/S1020736.JPG?updatedAt=1766442706588",
-        "fileId": "694561675c7cd75eb82f6cf7",
-        "size": 6923294
+        "fileId": "694561675c7cd75eb82f6cf7"
       },
       {
         "name": "S1020728.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-53/S1020728.JPG?updatedAt=1766442733335",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-53/S1020728.JPG?updatedAt=1766442733335",
-        "fileId": "694561885c7cd75eb8303cad",
-        "size": 6988284
+        "fileId": "694561885c7cd75eb8303cad"
       },
       {
         "name": "S1020731.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-53/S1020731.JPG?updatedAt=1766442720565",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-53/S1020731.JPG?updatedAt=1766442720565",
-        "fileId": "6945630f5c7cd75eb839d4d9",
-        "size": 7471828
+        "fileId": "6945630f5c7cd75eb839d4d9"
       }
     ]
   },
@@ -1024,21 +941,19 @@
     "inverter": "Fronius",
     "notes": "",
     "lat": 43.7292022,
-    "lng": -79.60690120000001,
+    "lng": -79.6069012,
     "images": [
       {
         "name": "DJI_0559.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-54/DJI_0559.JPG?updatedAt=1766442747176",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-54/DJI_0559.JPG?updatedAt=1766442747176",
-        "fileId": "6945619b5c7cd75eb830b7f7",
-        "size": 6270515
+        "fileId": "6945619b5c7cd75eb830b7f7"
       },
       {
         "name": "DJI_0552.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-54/DJI_0552.JPG?updatedAt=1766442759909",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-54/DJI_0552.JPG?updatedAt=1766442759909",
-        "fileId": "694561ae5c7cd75eb83133e9",
-        "size": 6259311
+        "fileId": "694561ae5c7cd75eb83133e9"
       }
     ]
   },
@@ -1062,15 +977,13 @@
         "name": "S1012580.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-55/S1012580.JPG?updatedAt=1766442777397",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-55/S1012580.JPG?updatedAt=1766442777397",
-        "fileId": "694561bc5c7cd75eb831838c",
-        "size": 6488135
+        "fileId": "694561bc5c7cd75eb831838c"
       },
       {
         "name": "S1012555.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-55/S1012555.JPG?updatedAt=1766442789019",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-55/S1012555.JPG?updatedAt=1766442789019",
-        "fileId": "694563245c7cd75eb83a5669",
-        "size": 5976789
+        "fileId": "694563245c7cd75eb83a5669"
       }
     ]
   },
@@ -1094,15 +1007,13 @@
         "name": "S1009807F.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-67/S1009807F.JPG?updatedAt=1766442793717",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-67/S1009807F.JPG?updatedAt=1766442793717",
-        "fileId": "6945632a5c7cd75eb83a848f",
-        "size": 1583030
+        "fileId": "6945632a5c7cd75eb83a848f"
       },
       {
         "name": "S1009830.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-67/S1009830.JPG?updatedAt=1766442806154",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-67/S1009830.JPG?updatedAt=1766442806154",
-        "fileId": "694563405c7cd75eb83b09e4",
-        "size": 5921846
+        "fileId": "694563405c7cd75eb83b09e4"
       }
     ]
   },
@@ -1126,15 +1037,13 @@
         "name": "S1024648.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-68/S1024648.JPG?updatedAt=1766442818338",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-68/S1024648.JPG?updatedAt=1766442818338",
-        "fileId": "694563595c7cd75eb83b94e1",
-        "size": 5883609
+        "fileId": "694563595c7cd75eb83b94e1"
       },
       {
         "name": "S1024637.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-68/S1024637.JPG?updatedAt=1766442830428",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-68/S1024637.JPG?updatedAt=1766442830428",
-        "fileId": "6945636c5c7cd75eb83c10f7",
-        "size": 5799004
+        "fileId": "6945636c5c7cd75eb83c10f7"
       }
     ]
   },
@@ -1152,21 +1061,19 @@
     "inverter": "Canadian Solar",
     "notes": "",
     "lat": 45.3629739,
-    "lng": -75.78786219999999,
+    "lng": -75.7878622,
     "images": [
       {
         "name": "S1006342.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-69/S1006342.JPG?updatedAt=1766442843208",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-69/S1006342.JPG?updatedAt=1766442843208",
-        "fileId": "694563845c7cd75eb83ca102",
-        "size": 6850279
+        "fileId": "694563845c7cd75eb83ca102"
       },
       {
         "name": "S1003131.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-69/S1003131.JPG?updatedAt=1766442856482",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-69/S1003131.JPG?updatedAt=1766442856482",
-        "fileId": "6945639d5c7cd75eb83d3508",
-        "size": 6706873
+        "fileId": "6945639d5c7cd75eb83d3508"
       }
     ]
   },
@@ -1190,29 +1097,25 @@
         "name": "S1007860FF.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-70/S1007860FF.JPG?updatedAt=1766442861734",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-70/S1007860FF.JPG?updatedAt=1766442861734",
-        "fileId": "694563a85c7cd75eb83d79f2",
-        "size": 2085294
+        "fileId": "694563a85c7cd75eb83d79f2"
       },
       {
         "name": "S1007860F.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-70/S1007860F.JPG?updatedAt=1766442865574",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-70/S1007860F.JPG?updatedAt=1766442865574",
-        "fileId": "694563ae5c7cd75eb83d945b",
-        "size": 2007045
+        "fileId": "694563ae5c7cd75eb83d945b"
       },
       {
         "name": "S1007864.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-70/S1007864.JPG?updatedAt=1766442877616",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-70/S1007864.JPG?updatedAt=1766442877616",
-        "fileId": "694563c55c7cd75eb83e1b94",
-        "size": 6890938
+        "fileId": "694563c55c7cd75eb83e1b94"
       },
       {
         "name": "S1007860.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-70/S1007860.JPG?updatedAt=1766443232980",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-70/S1007860.JPG?updatedAt=1766443232980",
-        "fileId": "694563da5c7cd75eb83ec368",
-        "size": 6339123
+        "fileId": "694563da5c7cd75eb83ec368"
       }
     ]
   },
@@ -1236,43 +1139,37 @@
         "name": "S1010661F.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-71/S1010661F.JPG?updatedAt=1766443238169",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-71/S1010661F.JPG?updatedAt=1766443238169",
-        "fileId": "694563ea5c7cd75eb83f2aea",
-        "size": 2722175
+        "fileId": "694563ea5c7cd75eb83f2aea"
       },
       {
         "name": "S1010666.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-71/S1010666.JPG?updatedAt=1766443248975",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-71/S1010666.JPG?updatedAt=1766443248975",
-        "fileId": "694563ff5c7cd75eb83fb455",
-        "size": 6229126
+        "fileId": "694563ff5c7cd75eb83fb455"
       },
       {
         "name": "S1010662.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-71/S1010662.JPG?updatedAt=1766443261460",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-71/S1010662.JPG?updatedAt=1766443261460",
-        "fileId": "694564175c7cd75eb84048a3",
-        "size": 6886990
+        "fileId": "694564175c7cd75eb84048a3"
       },
       {
         "name": "S1010661.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-71/S1010661.JPG?updatedAt=1766443272102",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-71/S1010661.JPG?updatedAt=1766443272102",
-        "fileId": "6945654e5c7cd75eb847ba06",
-        "size": 6816108
+        "fileId": "6945654e5c7cd75eb847ba06"
       },
       {
         "name": "S1010649.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-71/S1010649.JPG?updatedAt=1766443281560",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-71/S1010649.JPG?updatedAt=1766443281560",
-        "fileId": "694565595c7cd75eb847e899",
-        "size": 7135462
+        "fileId": "694565595c7cd75eb847e899"
       },
       {
         "name": "S1010641.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-71/S1010641.JPG?updatedAt=1766443292117",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-71/S1010641.JPG?updatedAt=1766443292117",
-        "fileId": "694565645c7cd75eb8482505",
-        "size": 7462696
+        "fileId": "694565645c7cd75eb8482505"
       }
     ]
   },
@@ -1289,22 +1186,20 @@
     "racking": "Terragen",
     "inverter": "Canadian Solar",
     "notes": "",
-    "lat": 45.42186299999999,
-    "lng": -75.65150539999999,
+    "lat": 45.421863,
+    "lng": -75.6515054,
     "images": [
       {
         "name": "S1019352.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-77/S1019352.JPG?updatedAt=1766443303373",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-77/S1019352.JPG?updatedAt=1766443303373",
-        "fileId": "694565705c7cd75eb84863ce",
-        "size": 6858723
+        "fileId": "694565705c7cd75eb84863ce"
       },
       {
         "name": "S1019350.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-77/S1019350.JPG?updatedAt=1766443315780",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-77/S1019350.JPG?updatedAt=1766443315780",
-        "fileId": "694565795c7cd75eb8488d68",
-        "size": 6350080
+        "fileId": "694565795c7cd75eb8488d68"
       }
     ]
   },
@@ -1328,15 +1223,13 @@
         "name": "S1020725.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-78/S1020725.JPG?updatedAt=1766443329266",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-78/S1020725.JPG?updatedAt=1766443329266",
-        "fileId": "694565845c7cd75eb848cba1",
-        "size": 6703640
+        "fileId": "694565845c7cd75eb848cba1"
       },
       {
         "name": "S1020675.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-78/S1020675.JPG?updatedAt=1766443343689",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-78/S1020675.JPG?updatedAt=1766443343689",
-        "fileId": "6945659c5c7cd75eb849519d",
-        "size": 6480665
+        "fileId": "6945659c5c7cd75eb849519d"
       }
     ]
   },
@@ -1354,28 +1247,25 @@
     "inverter": "Canadian Solar",
     "notes": "",
     "lat": 45.3539658,
-    "lng": -75.64987409999999,
+    "lng": -75.6498741,
     "images": [
       {
         "name": "S1025082.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-80/S1025082.JPG?updatedAt=1766443355734",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-80/S1025082.JPG?updatedAt=1766443355734",
-        "fileId": "694565a85c7cd75eb8499a47",
-        "size": 7410389
+        "fileId": "694565a85c7cd75eb8499a47"
       },
       {
         "name": "S1025077.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-80/S1025077.JPG?updatedAt=1766443370086",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-80/S1025077.JPG?updatedAt=1766443370086",
-        "fileId": "694565b45c7cd75eb849eddd",
-        "size": 7620965
+        "fileId": "694565b45c7cd75eb849eddd"
       },
       {
         "name": "S1025088.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-80/S1025088.JPG?updatedAt=1766443380637",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-80/S1025088.JPG?updatedAt=1766443380637",
-        "fileId": "694565c15c7cd75eb84a2dd3",
-        "size": 6980839
+        "fileId": "694565c15c7cd75eb84a2dd3"
       }
     ]
   },
@@ -1392,22 +1282,20 @@
     "racking": "Cooper arista",
     "inverter": "Canadian Solar",
     "notes": "",
-    "lat": 45.45882539999999,
+    "lat": 45.4588254,
     "lng": -75.491982,
     "images": [
       {
         "name": "S1019278.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-81/S1019278.JPG?updatedAt=1766443391312",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-81/S1019278.JPG?updatedAt=1766443391312",
-        "fileId": "694565cb5c7cd75eb84a6dce",
-        "size": 6204861
+        "fileId": "694565cb5c7cd75eb84a6dce"
       },
       {
         "name": "IMG-20230501-WA0002.jpg",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-81/IMG-20230501-WA0002.jpg?updatedAt=1766443392850",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-81/IMG-20230501-WA0002.jpg?updatedAt=1766443392850",
-        "fileId": "694565cc5c7cd75eb84a7391",
-        "size": 202671
+        "fileId": "694565cc5c7cd75eb84a7391"
       }
     ]
   },
@@ -1425,14 +1313,13 @@
     "inverter": "Canadian Solar",
     "notes": "",
     "lat": 45.3063846,
-    "lng": -75.91678379999999,
+    "lng": -75.9167838,
     "images": [
       {
         "name": "S1003391.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-82/S1003391.JPG?updatedAt=1766443404000",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-82/S1003391.JPG?updatedAt=1766443404000",
-        "fileId": "694565d75c7cd75eb84aa318",
-        "size": 6580146
+        "fileId": "694565d75c7cd75eb84aa318"
       }
     ]
   },
@@ -1450,28 +1337,25 @@
     "inverter": "Canadian Solar",
     "notes": "",
     "lat": 45.3334647,
-    "lng": -75.70326949999999,
+    "lng": -75.7032695,
     "images": [
       {
         "name": "S1027423.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-83/S1027423.JPG?updatedAt=1766443414046",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-83/S1027423.JPG?updatedAt=1766443414046",
-        "fileId": "694565e15c7cd75eb84acea9",
-        "size": 5609025
+        "fileId": "694565e15c7cd75eb84acea9"
       },
       {
         "name": "S1027421.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-83/S1027421.JPG?updatedAt=1766443425051",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-83/S1027421.JPG?updatedAt=1766443425051",
-        "fileId": "694565eb5c7cd75eb84b2479",
-        "size": 5740537
+        "fileId": "694565eb5c7cd75eb84b2479"
       },
       {
         "name": "S1027432.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-83/S1027432.JPG?updatedAt=1766443433913",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-83/S1027432.JPG?updatedAt=1766443433913",
-        "fileId": "694565f45c7cd75eb84b50bd",
-        "size": 6395017
+        "fileId": "694565f45c7cd75eb84b50bd"
       }
     ]
   },
@@ -1489,42 +1373,37 @@
     "inverter": "Solis",
     "notes": "",
     "lat": 44.8984845,
-    "lng": -76.01387319999999,
+    "lng": -76.0138732,
     "images": [
       {
         "name": "S1012160.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-84/S1012160.JPG?updatedAt=1766443445179",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-84/S1012160.JPG?updatedAt=1766443445179",
-        "fileId": "694566005c7cd75eb84b92d6",
-        "size": 7766466
+        "fileId": "694566005c7cd75eb84b92d6"
       },
       {
         "name": "S1012150.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-84/S1012150.JPG?updatedAt=1766443456257",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-84/S1012150.JPG?updatedAt=1766443456257",
-        "fileId": "6945660c5c7cd75eb84bce72",
-        "size": 7668847
+        "fileId": "6945660c5c7cd75eb84bce72"
       },
       {
         "name": "S1012147.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-84/S1012147.JPG?updatedAt=1766443469093",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-84/S1012147.JPG?updatedAt=1766443469093",
-        "fileId": "694566195c7cd75eb84c17dd",
-        "size": 7667662
+        "fileId": "694566195c7cd75eb84c17dd"
       },
       {
         "name": "S1012143.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-84/S1012143.JPG?updatedAt=1766443483143",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-84/S1012143.JPG?updatedAt=1766443483143",
-        "fileId": "694566255c7cd75eb84c5d1d",
-        "size": 7634190
+        "fileId": "694566255c7cd75eb84c5d1d"
       },
       {
         "name": "S1010317.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-84/S1010317.JPG?updatedAt=1766443499377",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-84/S1010317.JPG?updatedAt=1766443499377",
-        "fileId": "694566365c7cd75eb84cb25b",
-        "size": 8644775
+        "fileId": "694566365c7cd75eb84cb25b"
       }
     ]
   },
@@ -1548,36 +1427,31 @@
         "name": "S1010057F.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-85/S1010057F.JPG?updatedAt=1766443507096",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-85/S1010057F.JPG?updatedAt=1766443507096",
-        "fileId": "6945663b5c7cd75eb84ccb65",
-        "size": 3018091
+        "fileId": "6945663b5c7cd75eb84ccb65"
       },
       {
         "name": "S1012128.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-85/S1012128.JPG?updatedAt=1766443518833",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-85/S1012128.JPG?updatedAt=1766443518833",
-        "fileId": "694566465c7cd75eb84d1198",
-        "size": 7148723
+        "fileId": "694566465c7cd75eb84d1198"
       },
       {
         "name": "S1012122.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-85/S1012122.JPG?updatedAt=1766443814177",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-85/S1012122.JPG?updatedAt=1766443814177",
-        "fileId": "694566515c7cd75eb84d41b4",
-        "size": 7552926
+        "fileId": "694566515c7cd75eb84d41b4"
       },
       {
         "name": "S1012121.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-85/S1012121.JPG?updatedAt=1766443829605",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-85/S1012121.JPG?updatedAt=1766443829605",
-        "fileId": "6945665d5c7cd75eb84d8fa1",
-        "size": 7305805
+        "fileId": "6945665d5c7cd75eb84d8fa1"
       },
       {
         "name": "S1010057.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-85/S1010057.JPG?updatedAt=1766443843030",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-85/S1010057.JPG?updatedAt=1766443843030",
-        "fileId": "694566685c7cd75eb84dd849",
-        "size": 7772544
+        "fileId": "694566685c7cd75eb84dd849"
       }
     ]
   },
@@ -1594,22 +1468,20 @@
     "racking": "Terragen",
     "inverter": "Solis",
     "notes": "",
-    "lat": 45.1380346,
-    "lng": -76.1292441,
+    "lat": 45.1387309,
+    "lng": -76.127388,
     "images": [
       {
         "name": "S1025107.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-87/S1025107.JPG?updatedAt=1766443854793",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-87/S1025107.JPG?updatedAt=1766443854793",
-        "fileId": "694567a95c7cd75eb855259c",
-        "size": 6986556
+        "fileId": "694567a95c7cd75eb855259c"
       },
       {
         "name": "S1025104.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-87/S1025104.JPG?updatedAt=1766443864533",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-87/S1025104.JPG?updatedAt=1766443864533",
-        "fileId": "694567b55c7cd75eb8557291",
-        "size": 6468565
+        "fileId": "694567b55c7cd75eb8557291"
       }
     ]
   },
@@ -1627,28 +1499,25 @@
     "inverter": "Huawei",
     "notes": "",
     "lat": 43.6033234,
-    "lng": -81.53455369999999,
+    "lng": -81.5345537,
     "images": [
       {
         "name": "DJI_0039.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-91/DJI_0039.JPG?updatedAt=1766443875506",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-91/DJI_0039.JPG?updatedAt=1766443875506",
-        "fileId": "694567c35c7cd75eb855d7bc",
-        "size": 6368193
+        "fileId": "694567c35c7cd75eb855d7bc"
       },
       {
         "name": "DJI_0033.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-91/DJI_0033.JPG?updatedAt=1766443884906",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-91/DJI_0033.JPG?updatedAt=1766443884906",
-        "fileId": "694567cd5c7cd75eb8560f55",
-        "size": 5677219
+        "fileId": "694567cd5c7cd75eb8560f55"
       },
       {
         "name": "DJI_0022.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-91/DJI_0022.JPG?updatedAt=1766443895272",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-91/DJI_0022.JPG?updatedAt=1766443895272",
-        "fileId": "694567d95c7cd75eb8565d68",
-        "size": 5931493
+        "fileId": "694567d95c7cd75eb8565d68"
       }
     ]
   },
@@ -1666,28 +1535,25 @@
     "inverter": "SolarEdge",
     "notes": "",
     "lat": 43.7962457,
-    "lng": -79.34660509999999,
+    "lng": -79.3466051,
     "images": [
       {
         "name": "DJI_2075.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-92/DJI_2075.JPG?updatedAt=1766443908222",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-92/DJI_2075.JPG?updatedAt=1766443908222",
-        "fileId": "694567e45c7cd75eb8569bfc",
-        "size": 6602361
+        "fileId": "694567e45c7cd75eb8569bfc"
       },
       {
         "name": "DJI_2057.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-92/DJI_2057.JPG?updatedAt=1766443923069",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-92/DJI_2057.JPG?updatedAt=1766443923069",
-        "fileId": "694567ef5c7cd75eb856e614",
-        "size": 6706116
+        "fileId": "694567ef5c7cd75eb856e614"
       },
       {
         "name": "DJI_2046.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-92/DJI_2046.JPG?updatedAt=1766443936949",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-92/DJI_2046.JPG?updatedAt=1766443936949",
-        "fileId": "694567f95c7cd75eb8573375",
-        "size": 6705617
+        "fileId": "694567f95c7cd75eb8573375"
       }
     ]
   },
@@ -1705,14 +1571,13 @@
     "inverter": "Fronius",
     "notes": "",
     "lat": 45.3181118,
-    "lng": -75.62696439999999,
+    "lng": -75.6269644,
     "images": [
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-93/Coming1.gif?updatedAt=1766443940047",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-93/Coming1.gif?updatedAt=1766443940047",
-        "fileId": "694567fd5c7cd75eb8574736",
-        "size": 823428
+        "fileId": "694567fd5c7cd75eb8574736"
       }
     ]
   },
@@ -1730,28 +1595,25 @@
     "inverter": "SolarEdge",
     "notes": "",
     "lat": 43.4280296,
-    "lng": -79.93464589999999,
+    "lng": -79.9346459,
     "images": [
       {
         "name": "S1012026.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-94/S1012026.JPG?updatedAt=1766443953173",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-94/S1012026.JPG?updatedAt=1766443953173",
-        "fileId": "694568085c7cd75eb85788fe",
-        "size": 6874095
+        "fileId": "694568085c7cd75eb85788fe"
       },
       {
         "name": "S1012018.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-94/S1012018.JPG?updatedAt=1766443965080",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-94/S1012018.JPG?updatedAt=1766443965080",
-        "fileId": "694568175c7cd75eb857ced5",
-        "size": 7700084
+        "fileId": "694568175c7cd75eb857ced5"
       },
       {
         "name": "S1012016.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-94/S1012016.JPG?updatedAt=1766443981535",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-94/S1012016.JPG?updatedAt=1766443981535",
-        "fileId": "694568255c7cd75eb8582b92",
-        "size": 7604664
+        "fileId": "694568255c7cd75eb8582b92"
       }
     ]
   },
@@ -1775,22 +1637,19 @@
         "name": "DD3F0B86-D83C-407A-9D74-6C5768A70A88.jpeg",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-96/DD3F0B86-D83C-407A-9D74-6C5768A70A88.jpeg?updatedAt=1766443987425",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-96/DD3F0B86-D83C-407A-9D74-6C5768A70A88.jpeg?updatedAt=1766443987425",
-        "fileId": "69454b4d5c7cd75eb898cbee",
-        "size": 2713682
+        "fileId": "69454b4d5c7cd75eb898cbee"
       },
       {
         "name": "DAFAC8F0-2576-42F9-A11E-E3E2F8E608DF.jpeg",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-96/DAFAC8F0-2576-42F9-A11E-E3E2F8E608DF.jpeg?updatedAt=1766443991980",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-96/DAFAC8F0-2576-42F9-A11E-E3E2F8E608DF.jpeg?updatedAt=1766443991980",
-        "fileId": "69454b535c7cd75eb898f7fc",
-        "size": 2805711
+        "fileId": "69454b535c7cd75eb898f7fc"
       },
       {
         "name": "IMG_0513.jpeg",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-96/IMG_0513.jpeg?updatedAt=1766444001517",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-96/IMG_0513.jpeg?updatedAt=1766444001517",
-        "fileId": "69454b605c7cd75eb89933e0",
-        "size": 6526171
+        "fileId": "69454b605c7cd75eb89933e0"
       }
     ]
   },
@@ -1808,21 +1667,19 @@
     "inverter": "Solis",
     "notes": "",
     "lat": 43.7506289,
-    "lng": -79.46015539999999,
+    "lng": -79.4601554,
     "images": [
       {
         "name": "S1027818.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-97/S1027818.JPG?updatedAt=1766444010267",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-97/S1027818.JPG?updatedAt=1766444010267",
-        "fileId": "69454b6c5c7cd75eb89983a5",
-        "size": 5137225
+        "fileId": "69454b6c5c7cd75eb89983a5"
       },
       {
         "name": "S1027832.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-97/S1027832.JPG?updatedAt=1766444020106",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-97/S1027832.JPG?updatedAt=1766444020106",
-        "fileId": "69454b785c7cd75eb899d479",
-        "size": 5832096
+        "fileId": "69454b785c7cd75eb899d479"
       }
     ]
   },
@@ -1840,21 +1697,19 @@
     "inverter": "Solis",
     "notes": "",
     "lat": 43.8157039,
-    "lng": -79.25656769999999,
+    "lng": -79.2565677,
     "images": [
       {
         "name": "Tiffield__2_.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-104/Tiffield__2_.JPG?updatedAt=1766438411810",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-104/Tiffield__2_.JPG?updatedAt=1766438411810",
-        "fileId": "69454c575c7cd75eb89ed384",
-        "size": 6100126
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-104/Tiffield__2_.JPG?updatedAt=1768296289476",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-104/Tiffield__2_.JPG?updatedAt=1768296289476",
+        "fileId": "69454c575c7cd75eb89ed384"
       },
       {
         "name": "Tiffield.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-104/Tiffield.JPG?updatedAt=1766438430850",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-104/Tiffield.JPG?updatedAt=1766438430850",
-        "fileId": "69454c685c7cd75eb89f395a",
-        "size": 7188194
+        "fileId": "69454c685c7cd75eb89f395a"
       }
     ]
   },
@@ -1871,29 +1726,26 @@
     "racking": "Terragen",
     "inverter": "Solis",
     "notes": "",
-    "lat": 43.73007390000001,
+    "lat": 43.7300739,
     "lng": -79.2440577,
     "images": [
       {
         "name": "S1017152.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-105/S1017152.JPG?updatedAt=1766438452028",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-105/S1017152.JPG?updatedAt=1766438452028",
-        "fileId": "69454c795c7cd75eb89f8a6f",
-        "size": 7265763
+        "fileId": "69454c795c7cd75eb89f8a6f"
       },
       {
         "name": "S1017136.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-105/S1017136.JPG?updatedAt=1766438474002",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-105/S1017136.JPG?updatedAt=1766438474002",
-        "fileId": "69454c895c7cd75eb89fef93",
-        "size": 7132398
+        "fileId": "69454c895c7cd75eb89fef93"
       },
       {
         "name": "S1017127.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-105/S1017127.JPG?updatedAt=1766438492019",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-105/S1017127.JPG?updatedAt=1766438492019",
-        "fileId": "69454c9c5c7cd75eb8a09a48",
-        "size": 7159973
+        "fileId": "69454c9c5c7cd75eb8a09a48"
       }
     ]
   },
@@ -1917,8 +1769,7 @@
         "name": "38953991-9CA0-4853-8569-5698466F8282.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-106/38953991-9CA0-4853-8569-5698466F8282.JPG?updatedAt=1766438508696",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-106/38953991-9CA0-4853-8569-5698466F8282.JPG?updatedAt=1766438508696",
-        "fileId": "69454cab5c7cd75eb8a1048e",
-        "size": 6819734
+        "fileId": "69454cab5c7cd75eb8a1048e"
       }
     ]
   },
@@ -1942,15 +1793,13 @@
         "name": "S1017592.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-108/S1017592.JPG?updatedAt=1766438523838",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-108/S1017592.JPG?updatedAt=1766438523838",
-        "fileId": "69454cbc5c7cd75eb8a187e4",
-        "size": 6249697
+        "fileId": "69454cbc5c7cd75eb8a187e4"
       },
       {
         "name": "S1017472.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-108/S1017472.JPG?updatedAt=1766438540952",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-108/S1017472.JPG?updatedAt=1766438540952",
-        "fileId": "69454cc95c7cd75eb8a1f5f7",
-        "size": 6863310
+        "fileId": "69454cc95c7cd75eb8a1f5f7"
       }
     ]
   },
@@ -1972,17 +1821,15 @@
     "images": [
       {
         "name": "Photo_2025-06-04__6_13_35_PM.jpg",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-111/Photo_2025-06-04__6_13_35_PM.jpg?updatedAt=1766438555147",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-111/Photo_2025-06-04__6_13_35_PM.jpg?updatedAt=1766438555147",
-        "fileId": "69454cd65c7cd75eb8a258ba",
-        "size": 5761037
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-111/Photo_2025-06-04__6_13_35_PM.jpg?updatedAt=1768296312298",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-111/Photo_2025-06-04__6_13_35_PM.jpg?updatedAt=1768296312298",
+        "fileId": "69454cd65c7cd75eb8a258ba"
       },
       {
         "name": "Photo_2025-06-04__6_15_14_PM.jpg",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-111/Photo_2025-06-04__6_15_14_PM.jpg?updatedAt=1766438572402",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-111/Photo_2025-06-04__6_15_14_PM.jpg?updatedAt=1766438572402",
-        "fileId": "69454ce25c7cd75eb8a2ab84",
-        "size": 5570436
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-111/Photo_2025-06-04__6_15_14_PM.jpg?updatedAt=1768296313758",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-111/Photo_2025-06-04__6_15_14_PM.jpg?updatedAt=1768296313758",
+        "fileId": "69454ce25c7cd75eb8a2ab84"
       }
     ]
   },
@@ -2000,21 +1847,19 @@
     "inverter": "Sungrow",
     "notes": "",
     "lat": 42.992235,
-    "lng": -81.21406160000001,
+    "lng": -81.2140616,
     "images": [
       {
         "name": "DJI_0158.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-112/DJI_0158.JPG?updatedAt=1766438587062",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-112/DJI_0158.JPG?updatedAt=1766438587062",
-        "fileId": "69454cf05c7cd75eb8a2f98e",
-        "size": 6863690
+        "fileId": "69454cf05c7cd75eb8a2f98e"
       },
       {
         "name": "DJI_0152.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-112/DJI_0152.JPG?updatedAt=1766438601768",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-112/DJI_0152.JPG?updatedAt=1766438601768",
-        "fileId": "69454cfe5c7cd75eb8a34a28",
-        "size": 6578271
+        "fileId": "69454cfe5c7cd75eb8a34a28"
       }
     ]
   },
@@ -2032,14 +1877,13 @@
     "inverter": "Solaron",
     "notes": "",
     "lat": 43.1495027,
-    "lng": -80.74397359999999,
+    "lng": -80.7439736,
     "images": [
       {
         "name": "Copy_of_460Industrial2.jpg",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-115/Copy_of_460Industrial2.jpg?updatedAt=1766438603736",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-115/Copy_of_460Industrial2.jpg?updatedAt=1766438603736",
-        "fileId": "69454d095c7cd75eb8a384c7",
-        "size": 343537
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-115/Copy_of_460Industrial2.jpg?updatedAt=1768296324960",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-115/Copy_of_460Industrial2.jpg?updatedAt=1768296324960",
+        "fileId": "69454d095c7cd75eb8a384c7"
       }
     ]
   },
@@ -2057,14 +1901,13 @@
     "inverter": "Solaron",
     "notes": "",
     "lat": 43.1287494,
-    "lng": -80.74315039999999,
+    "lng": -80.7431504,
     "images": [
       {
         "name": "Copy_of_80Norwich2.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-116/Copy_of_80Norwich2.JPG?updatedAt=1766438620395",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-116/Copy_of_80Norwich2.JPG?updatedAt=1766438620395",
-        "fileId": "69454de05c7cd75eb8a85ea0",
-        "size": 6801531
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-116/Copy_of_80Norwich2.JPG?updatedAt=1768296319444",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-116/Copy_of_80Norwich2.JPG?updatedAt=1768296319444",
+        "fileId": "69454de05c7cd75eb8a85ea0"
       }
     ]
   },
@@ -2086,17 +1929,15 @@
     "images": [
       {
         "name": "Copy_of_215Gilbert1.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-117/Copy_of_215Gilbert1.JPG?updatedAt=1766438651149",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-117/Copy_of_215Gilbert1.JPG?updatedAt=1766438651149",
-        "fileId": "69454b1d5c7cd75eb8977f97",
-        "size": 12038845
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-117/Copy_of_215Gilbert1.JPG?updatedAt=1768296284881",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-117/Copy_of_215Gilbert1.JPG?updatedAt=1768296284881",
+        "fileId": "69454b1d5c7cd75eb8977f97"
       },
       {
         "name": "Copy_of_215Gilbert2.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-117/Copy_of_215Gilbert2.JPG?updatedAt=1766438661944",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-117/Copy_of_215Gilbert2.JPG?updatedAt=1766438661944",
-        "fileId": "69454d585c7cd75eb8a5660e",
-        "size": 3836133
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-117/Copy_of_215Gilbert2.JPG?updatedAt=1768296286964",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-117/Copy_of_215Gilbert2.JPG?updatedAt=1768296286964",
+        "fileId": "69454d585c7cd75eb8a5660e"
       }
     ]
   },
@@ -2118,10 +1959,9 @@
     "images": [
       {
         "name": "Copy_of_1000WyeValley1.jpg",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-118/Copy_of_1000WyeValley1.jpg?updatedAt=1766438671094",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-118/Copy_of_1000WyeValley1.jpg?updatedAt=1766438671094",
-        "fileId": "69454d615c7cd75eb8a59b02",
-        "size": 3480089
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-118/Copy_of_1000WyeValley1.jpg?updatedAt=1768296247953",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-118/Copy_of_1000WyeValley1.jpg?updatedAt=1768296247953",
+        "fileId": "69454d615c7cd75eb8a59b02"
       }
     ]
   },
@@ -2139,14 +1979,13 @@
     "inverter": "Solaron",
     "notes": "",
     "lat": 42.84794,
-    "lng": -80.50121999999999,
+    "lng": -80.50122,
     "images": [
       {
         "name": "Copy_of_252Power1.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-119/Copy_of_252Power1.JPG?updatedAt=1766438692618",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-119/Copy_of_252Power1.JPG?updatedAt=1766438692618",
-        "fileId": "69454d6f5c7cd75eb8a5dab4",
-        "size": 7143424
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-119/Copy_of_252Power1.JPG?updatedAt=1768296271976",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-119/Copy_of_252Power1.JPG?updatedAt=1768296271976",
+        "fileId": "69454d6f5c7cd75eb8a5dab4"
       }
     ]
   },
@@ -2168,10 +2007,9 @@
     "images": [
       {
         "name": "Copy_of_510Main1.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-120/Copy_of_510Main1.JPG?updatedAt=1766438707365",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-120/Copy_of_510Main1.JPG?updatedAt=1766438707365",
-        "fileId": "69454d7d5c7cd75eb8a61428",
-        "size": 5275648
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-120/Copy_of_510Main1.JPG?updatedAt=1768296274950",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-120/Copy_of_510Main1.JPG?updatedAt=1768296274950",
+        "fileId": "69454d7d5c7cd75eb8a61428"
       }
     ]
   },
@@ -2195,8 +2033,7 @@
         "name": "1500bramaleaaerial1a.jpg",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-121/1500bramaleaaerial1a.jpg?updatedAt=1766438710236",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-121/1500bramaleaaerial1a.jpg?updatedAt=1766438710236",
-        "fileId": "69454d805c7cd75eb8a61c98",
-        "size": 313641
+        "fileId": "69454d805c7cd75eb8a61c98"
       }
     ]
   },
@@ -2218,10 +2055,9 @@
     "images": [
       {
         "name": "301_Tilson_Cropped.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-122/301_Tilson_Cropped.JPG?updatedAt=1766438719140",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-122/301_Tilson_Cropped.JPG?updatedAt=1766438719140",
-        "fileId": "69454d865c7cd75eb8a63ef8",
-        "size": 2405305
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-122/301_Tilson_Cropped.JPG?updatedAt=1768296295618",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-122/301_Tilson_Cropped.JPG?updatedAt=1768296295618",
+        "fileId": "69454d865c7cd75eb8a63ef8"
       }
     ]
   },
@@ -2245,15 +2081,13 @@
         "name": "IMG_20141107_121934.jpg",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-123/IMG_20141107_121934.jpg?updatedAt=1766438918458",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-123/IMG_20141107_121934.jpg?updatedAt=1766438918458",
-        "fileId": "69454d8b5c7cd75eb8a64b1a",
-        "size": 1282092
+        "fileId": "69454d8b5c7cd75eb8a64b1a"
       },
       {
         "name": "IMG_20141107_121932.jpg",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-123/IMG_20141107_121932.jpg?updatedAt=1766438922079",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-123/IMG_20141107_121932.jpg?updatedAt=1766438922079",
-        "fileId": "69454d8e5c7cd75eb8a65b02",
-        "size": 1331517
+        "fileId": "69454d8e5c7cd75eb8a65b02"
       }
     ]
   },
@@ -2275,24 +2109,21 @@
     "images": [
       {
         "name": "124._Aerial.png",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-124/124._Aerial.png?updatedAt=1766438925770",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-124/124._Aerial.png?updatedAt=1766438925770",
-        "fileId": "69454d955c7cd75eb8a69666",
-        "size": 1649729
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-124/124._Aerial.png?updatedAt=1768296267628",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-124/124._Aerial.png?updatedAt=1768296267628",
+        "fileId": "69454d955c7cd75eb8a69666"
       },
       {
         "name": "20140725_115626.jpg",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-124/20140725_115626.jpg?updatedAt=1766438930881",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-124/20140725_115626.jpg?updatedAt=1766438930881",
-        "fileId": "69454deb5c7cd75eb8a88606",
-        "size": 3167619
+        "fileId": "69454deb5c7cd75eb8a88606"
       },
       {
         "name": "20140725_120809-High_roof_Installation.jpg",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-124/20140725_120809-High_roof_Installation.jpg?updatedAt=1766438936332",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-124/20140725_120809-High_roof_Installation.jpg?updatedAt=1766438936332",
-        "fileId": "69454df15c7cd75eb8a8ac4c",
-        "size": 3220847
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-124/20140725_120809-High_roof_Installation.jpg?updatedAt=1768296268933",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-124/20140725_120809-High_roof_Installation.jpg?updatedAt=1768296268933",
+        "fileId": "69454df15c7cd75eb8a8ac4c"
       }
     ]
   },
@@ -2316,22 +2147,19 @@
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-125/Coming1.gif?updatedAt=1766438939139",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-125/Coming1.gif?updatedAt=1766438939139",
-        "fileId": "69454df45c7cd75eb8a8b837",
-        "size": 823428
+        "fileId": "69454df45c7cd75eb8a8b837"
       },
       {
         "name": "IMG_1697.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-125/IMG_1697.JPG?updatedAt=1766438943819",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-125/IMG_1697.JPG?updatedAt=1766438943819",
-        "fileId": "69454dfa5c7cd75eb8a8d746",
-        "size": 2021704
+        "fileId": "69454dfa5c7cd75eb8a8d746"
       },
       {
         "name": "390_Orenda_-_Aerial_Image_-_Completed_Project.jpg",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-125/390_Orenda_-_Aerial_Image_-_Completed_Project.jpg?updatedAt=1766438945672",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-125/390_Orenda_-_Aerial_Image_-_Completed_Project.jpg?updatedAt=1766438945672",
-        "fileId": "69454dfd5c7cd75eb8a8e3f1",
-        "size": 777087
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-125/390_Orenda_-_Aerial_Image_-_Completed_Project.jpg?updatedAt=1768296308731",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-125/390_Orenda_-_Aerial_Image_-_Completed_Project.jpg?updatedAt=1768296308731",
+        "fileId": "69454dfd5c7cd75eb8a8e3f1"
       }
     ]
   },
@@ -2349,14 +2177,13 @@
     "inverter": "Advanced Energy",
     "notes": "",
     "lat": 43.6921329,
-    "lng": -79.67092920000002,
+    "lng": -79.6709292,
     "images": [
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-126/Coming1.gif?updatedAt=1766438948359",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-126/Coming1.gif?updatedAt=1766438948359",
-        "fileId": "69454e005c7cd75eb8a8fd50",
-        "size": 823428
+        "fileId": "69454e005c7cd75eb8a8fd50"
       }
     ]
   },
@@ -2374,21 +2201,20 @@
     "inverter": "Advanced Energy",
     "notes": "",
     "lat": 43.8712209,
-    "lng": -78.90742999999999,
+    "lng": -78.90743,
     "images": [
       {
         "name": "The_Brick_Drone-pic_1_.jpg",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-127/The_Brick_Drone-pic_1_.jpg?updatedAt=1766438951448",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-127/The_Brick_Drone-pic_1_.jpg?updatedAt=1766438951448",
-        "fileId": "69454e025c7cd75eb8a9197b",
-        "size": 860806
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-127/The_Brick_Drone-pic_1_.jpg?updatedAt=1768296291866",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-127/The_Brick_Drone-pic_1_.jpg?updatedAt=1768296291866",
+        "fileId": "69454e025c7cd75eb8a9197b"
       }
     ]
   },
   {
     "projectNum": "128",
     "address": "505 Hespeler Rd, Cambridge, ON N1R 6J2, Canada",
-    "owner": "Brookfield",
+    "owner": "Brookfeild",
     "capacity": 138.58,
     "year": 2010,
     "program": "FIT 1",
@@ -2405,8 +2231,7 @@
         "name": "505HespelerFullsize.jpg",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-128/505HespelerFullsize.jpg?updatedAt=1766438961800",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-128/505HespelerFullsize.jpg?updatedAt=1766438961800",
-        "fileId": "69454e0d5c7cd75eb8a97494",
-        "size": 5042956
+        "fileId": "69454e0d5c7cd75eb8a97494"
       }
     ]
   },
@@ -2430,15 +2255,14 @@
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-129/Coming1.gif?updatedAt=1766438964628",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-129/Coming1.gif?updatedAt=1766438964628",
-        "fileId": "69454e155c7cd75eb8a9b025",
-        "size": 823428
+        "fileId": "69454e155c7cd75eb8a9b025"
       }
     ]
   },
   {
     "projectNum": "130",
     "address": "1680 Mattawa Ave, Toronto, ON L4X 3A5, Canada",
-    "owner": "Brookfield",
+    "owner": "Brookfeild",
     "capacity": 355.68,
     "year": 2012,
     "program": "FIT 1",
@@ -2455,36 +2279,32 @@
         "name": "130..png",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-130/130..png?updatedAt=1766438967661",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-130/130..png?updatedAt=1766438967661",
-        "fileId": "69454e1a5c7cd75eb8a9ca75",
-        "size": 1330702
+        "fileId": "69454e1a5c7cd75eb8a9ca75"
       },
       {
         "name": "IMG_3151.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-130/IMG_3151.JPG?updatedAt=1766438972508",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-130/IMG_3151.JPG?updatedAt=1766438972508",
-        "fileId": "69454e1f5c7cd75eb8a9e73b",
-        "size": 2909832
+        "fileId": "69454e1f5c7cd75eb8a9e73b"
       },
       {
         "name": "image_5__2_.jpg",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-130/image_5__2_.jpg?updatedAt=1766438974155",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-130/image_5__2_.jpg?updatedAt=1766438974155",
-        "fileId": "69454e215c7cd75eb8a9f051",
-        "size": 661457
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-130/image_5__2_.jpg?updatedAt=1768296279169",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-130/image_5__2_.jpg?updatedAt=1768296279169",
+        "fileId": "69454e215c7cd75eb8a9f051"
       },
       {
         "name": "image_5__1_.jpg",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-130/image_5__1_.jpg?updatedAt=1766438979101",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-130/image_5__1_.jpg?updatedAt=1766438979101",
-        "fileId": "69454e275c7cd75eb8aa24c0",
-        "size": 2855536
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-130/image_5__1_.jpg?updatedAt=1768296280811",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-130/image_5__1_.jpg?updatedAt=1768296280811",
+        "fileId": "69454e275c7cd75eb8aa24c0"
       }
     ]
   },
   {
     "projectNum": "131",
     "address": "11160 Yonge St, Richmond Hill, ON L4S 1K9, Canada",
-    "owner": "Brookfield",
+    "owner": "Brookfeild",
     "capacity": 327.86,
     "year": 2014,
     "program": "FIT 1",
@@ -2501,15 +2321,14 @@
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-131/Coming1.gif?updatedAt=1766438981733",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-131/Coming1.gif?updatedAt=1766438981733",
-        "fileId": "69454e2c5c7cd75eb8aa3ed5",
-        "size": 823428
+        "fileId": "69454e2c5c7cd75eb8aa3ed5"
       }
     ]
   },
   {
     "projectNum": "132",
     "address": "1024 Dundas St E, Mississauga, ON L4Y 2B8, Canada",
-    "owner": "Brookfield",
+    "owner": "Brookfeild",
     "capacity": 128.44,
     "year": 2012,
     "program": "FIT 1",
@@ -2518,7 +2337,7 @@
     "module": "Heliene",
     "racking": "KB Racking",
     "inverter": "Xantrex",
-    "notes": "Verify another time. Tariform subsidiary of sunedison bankrupt then brookfield",
+    "notes": "",
     "lat": 43.6009689,
     "lng": -79.5916151,
     "images": [
@@ -2526,15 +2345,13 @@
         "name": "IMG_0385.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-132/IMG_0385.JPG?updatedAt=1766438988856",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-132/IMG_0385.JPG?updatedAt=1766438988856",
-        "fileId": "69454e345c7cd75eb8aa6ca4",
-        "size": 3723990
+        "fileId": "69454e345c7cd75eb8aa6ca4"
       },
       {
         "name": "GOPR2689.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-132/GOPR2689.JPG?updatedAt=1766438994947",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-132/GOPR2689.JPG?updatedAt=1766438994947",
-        "fileId": "69454e3e5c7cd75eb8aac262",
-        "size": 3885197
+        "fileId": "69454e3e5c7cd75eb8aac262"
       }
     ]
   },
@@ -2551,22 +2368,21 @@
     "racking": "Polar Racking",
     "inverter": "Kaco",
     "notes": "",
-    "lat": 43.42636479999999,
+    "lat": 43.4263648,
     "lng": -80.428016,
     "images": [
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-133/Coming1.gif?updatedAt=1766439091722",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-133/Coming1.gif?updatedAt=1766439091722",
-        "fileId": "69454e4f5c7cd75eb8abac54",
-        "size": 823428
+        "fileId": "69454e4f5c7cd75eb8abac54"
       }
     ]
   },
   {
     "projectNum": "134",
     "address": "1555 Wentworth St, Whitby, ON L1N 0H9, Canada",
-    "owner": "Brookfield",
+    "owner": "Brookfeild",
     "capacity": 874.5,
     "year": 2014,
     "program": "FIT 1",
@@ -2583,22 +2399,20 @@
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-134/Coming1.gif?updatedAt=1766439000362",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-134/Coming1.gif?updatedAt=1766439000362",
-        "fileId": "69454e525c7cd75eb8abdf62",
-        "size": 823428
+        "fileId": "69454e525c7cd75eb8abdf62"
       },
       {
         "name": "134._155_Wentworth_St.jpg",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-134/134._155_Wentworth_St.jpg?updatedAt=1766439001438",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-134/134._155_Wentworth_St.jpg?updatedAt=1766439001438",
-        "fileId": "69454e545c7cd75eb8abef1f",
-        "size": 63153
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-134/134._155_Wentworth_St.jpg?updatedAt=1768296310366",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-134/134._155_Wentworth_St.jpg?updatedAt=1768296310366",
+        "fileId": "69454e545c7cd75eb8abef1f"
       }
     ]
   },
   {
     "projectNum": "135",
     "address": "2276 Settlement Rd, Rideau Lakes, ON K0G 1E0, Canada",
-    "owner": "Brookfield",
+    "owner": "Brookfeild",
     "capacity": 874.995,
     "year": 2015,
     "program": "FIT 1",
@@ -2615,43 +2429,38 @@
         "name": "table.jpg.jpg",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-135/table.jpg.jpg?updatedAt=1766439008312",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-135/table.jpg.jpg?updatedAt=1766439008312",
-        "fileId": "69454e5c5c7cd75eb8ac55e1",
-        "size": 2984710
+        "fileId": "69454e5c5c7cd75eb8ac55e1"
       },
       {
         "name": "20160622_105225.jpg",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-135/20160622_105225.jpg?updatedAt=1766439015862",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-135/20160622_105225.jpg?updatedAt=1766439015862",
-        "fileId": "69454e655c7cd75eb8acd93f",
-        "size": 3885158
+        "fileId": "69454e655c7cd75eb8acd93f"
       },
       {
         "name": "20160622_103116.jpg",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-135/20160622_103116.jpg?updatedAt=1766439021933",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-135/20160622_103116.jpg?updatedAt=1766439021933",
-        "fileId": "69454e6e5c7cd75eb8ad4afd",
-        "size": 3940222
+        "fileId": "69454e6e5c7cd75eb8ad4afd"
       },
       {
         "name": "20160622_102837_HDR.jpg",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-135/20160622_102837_HDR.jpg?updatedAt=1766439027821",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-135/20160622_102837_HDR.jpg?updatedAt=1766439027821",
-        "fileId": "69454e775c7cd75eb8adc6a0",
-        "size": 3410699
+        "fileId": "69454e775c7cd75eb8adc6a0"
       },
       {
         "name": "126MoosePower_14Forfar_upscaled_7k.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-135/126MoosePower_14Forfar_upscaled_7k.JPG?updatedAt=1766439038159",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-135/126MoosePower_14Forfar_upscaled_7k.JPG?updatedAt=1766439038159",
-        "fileId": "69454e885c7cd75eb8aeb6dd",
-        "size": 6939656
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-135/126MoosePower_14Forfar_upscaled_7k.JPG?updatedAt=1768296294163",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-135/126MoosePower_14Forfar_upscaled_7k.JPG?updatedAt=1768296294163",
+        "fileId": "69454e885c7cd75eb8aeb6dd"
       }
     ]
   },
   {
     "projectNum": "136",
     "address": "360 Ontario St, St. Catharines, ON L2R 5L8, Canada",
-    "owner": "Brookfield",
+    "owner": "Brookfeild",
     "capacity": 148.72,
     "year": 2012,
     "program": "FIT 1",
@@ -2668,29 +2477,26 @@
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-136/Coming1.gif?updatedAt=1766439040909",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-136/Coming1.gif?updatedAt=1766439040909",
-        "fileId": "69454e8b5c7cd75eb8aedeb7",
-        "size": 823428
+        "fileId": "69454e8b5c7cd75eb8aedeb7"
       },
       {
         "name": "DSC00676.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-136/DSC00676.JPG?updatedAt=1766439045438",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-136/DSC00676.JPG?updatedAt=1766439045438",
-        "fileId": "69454e905c7cd75eb8af30aa",
-        "size": 1902615
+        "fileId": "69454e905c7cd75eb8af30aa"
       },
       {
         "name": "360_Ontario_google.jpg",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-136/360_Ontario_google.jpg?updatedAt=1766439048584",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-136/360_Ontario_google.jpg?updatedAt=1766439048584",
-        "fileId": "69454e945c7cd75eb8af74ad",
-        "size": 1258459
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-136/360_Ontario_google.jpg?updatedAt=1768296321954",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-136/360_Ontario_google.jpg?updatedAt=1768296321954",
+        "fileId": "69454e945c7cd75eb8af74ad"
       }
     ]
   },
   {
     "projectNum": "137",
     "address": "175 Trainyards Dr, Ottawa, ON K1G 3X8, Canada",
-    "owner": "Brookfield",
+    "owner": "Brookfeild",
     "capacity": 282.49,
     "year": 2013,
     "program": "FIT 1",
@@ -2707,22 +2513,20 @@
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-137/Coming1.gif?updatedAt=1766439051977",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-137/Coming1.gif?updatedAt=1766439051977",
-        "fileId": "69454e985c7cd75eb8af9fdc",
-        "size": 823428
+        "fileId": "69454e985c7cd75eb8af9fdc"
       },
       {
         "name": "20140507_151333.jpg",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-137/20140507_151333.jpg?updatedAt=1766439097709",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-137/20140507_151333.jpg?updatedAt=1766439097709",
-        "fileId": "69454e9d5c7cd75eb8afd95a",
-        "size": 1934860
+        "fileId": "69454e9d5c7cd75eb8afd95a"
       }
     ]
   },
   {
     "projectNum": "138",
     "address": "61 Queen St, Cookstown, ON L0L 1L0, Canada",
-    "owner": "Brookfield",
+    "owner": "Brookfeild",
     "capacity": 468.44,
     "year": 2015,
     "program": "FIT 1",
@@ -2739,15 +2543,14 @@
         "name": "DJI_0144.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-138/DJI_0144.JPG?updatedAt=1766439109608",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-138/DJI_0144.JPG?updatedAt=1766439109608",
-        "fileId": "694550235c7cd75eb8bdb16c",
-        "size": 6071049
+        "fileId": "694550235c7cd75eb8bdb16c"
       }
     ]
   },
   {
     "projectNum": "139",
     "address": "505 Industrial Dr, Milton, ON L9T 5C1, Canada",
-    "owner": "Brookfield",
+    "owner": "Brookfeild",
     "capacity": 435.6,
     "year": 2014,
     "program": "FIT 1",
@@ -2764,15 +2567,14 @@
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-139/Coming1.gif?updatedAt=1766439112720",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-139/Coming1.gif?updatedAt=1766439112720",
-        "fileId": "694550275c7cd75eb8bdc1aa",
-        "size": 823428
+        "fileId": "694550275c7cd75eb8bdc1aa"
       }
     ]
   },
   {
     "projectNum": "140",
     "address": "195 Summerlea Rd, Brampton, ON L6T 4W4, Canada",
-    "owner": "Brookfield",
+    "owner": "Brookfeild",
     "capacity": 429,
     "year": 2015,
     "program": "FIT 1",
@@ -2782,15 +2584,14 @@
     "racking": "Polar Racking",
     "inverter": "Advanced Energy",
     "notes": "",
-    "lat": 43.72892660000001,
+    "lat": 43.7289266,
     "lng": -79.6906576,
     "images": [
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-140/Coming1.gif?updatedAt=1766439115899",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-140/Coming1.gif?updatedAt=1766439115899",
-        "fileId": "6945502b5c7cd75eb8bdd2af",
-        "size": 823428
+        "fileId": "6945502b5c7cd75eb8bdd2af"
       }
     ]
   },
@@ -2831,14 +2632,13 @@
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-143/Coming1.gif?updatedAt=1766439118469",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-143/Coming1.gif?updatedAt=1766439118469",
-        "fileId": "6945502f5c7cd75eb8bdf187",
-        "size": 823428
+        "fileId": "6945502f5c7cd75eb8bdf187"
       }
     ]
   },
   {
     "projectNum": "144",
-    "address": "4080 North Service Road E, Burlington, ON",
+    "address": "4080 North Service Road E (307 - 344 Dupont St., Toronto, ON, M5R 1V9)",
     "owner": "Placeholder",
     "capacity": 383.04,
     "year": 2014,
@@ -2849,15 +2649,14 @@
     "racking": "HB Racking",
     "inverter": "Advanced Energy",
     "notes": "",
-    "lat": 43.3794082,
-    "lng": -79.77439160000002,
+    "lat": 43.6746193,
+    "lng": -79.4098561,
     "images": [
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-144/Coming1.gif?updatedAt=1766439121301",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-144/Coming1.gif?updatedAt=1766439121301",
-        "fileId": "694550335c7cd75eb8be00fe",
-        "size": 823428
+        "fileId": "694550335c7cd75eb8be00fe"
       }
     ]
   },
@@ -2880,7 +2679,7 @@
   },
   {
     "projectNum": "147",
-    "address": "403430 Robinson Rd, Ingersoll, ON",
+    "address": "403430 Robinson Rd, Ingersoll, ON N5C 3J7, Canada",
     "owner": "Tirecraft Ingersoll",
     "capacity": 363,
     "year": 2015,
@@ -2909,35 +2708,31 @@
     "inverter": "Advanced Energy",
     "notes": "",
     "lat": 42.9836468,
-    "lng": -81.13827739999999,
+    "lng": -81.1382774,
     "images": [
       {
         "name": "150..png",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-150/150..png?updatedAt=1766439125504",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-150/150..png?updatedAt=1766439125504",
-        "fileId": "6945503a5c7cd75eb8be1e33",
-        "size": 1476334
+        "fileId": "6945503a5c7cd75eb8be1e33"
       },
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-150/Coming1.gif?updatedAt=1766439128536",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-150/Coming1.gif?updatedAt=1766439128536",
-        "fileId": "6945503d5c7cd75eb8be2bb1",
-        "size": 823428
+        "fileId": "6945503d5c7cd75eb8be2bb1"
       },
       {
         "name": "2290_Scanlan_-_Module_Complete-01_AGT.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-150/2290_Scanlan_-_Module_Complete-01_AGT.JPG?updatedAt=1766439136291",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-150/2290_Scanlan_-_Module_Complete-01_AGT.JPG?updatedAt=1766439136291",
-        "fileId": "694550465c7cd75eb8be5ae9",
-        "size": 3240608
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-150/2290_Scanlan_-_Module_Complete-01_AGT.JPG?updatedAt=1768296265143",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-150/2290_Scanlan_-_Module_Complete-01_AGT.JPG?updatedAt=1768296265143",
+        "fileId": "694550465c7cd75eb8be5ae9"
       },
       {
         "name": "2290_Scanlan_-_Module_Complete_AGT.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-150/2290_Scanlan_-_Module_Complete_AGT.JPG?updatedAt=1766439142853",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-150/2290_Scanlan_-_Module_Complete_AGT.JPG?updatedAt=1766439142853",
-        "fileId": "694550525c7cd75eb8bea98c",
-        "size": 3548033
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-150/2290_Scanlan_-_Module_Complete_AGT.JPG?updatedAt=1768296266482",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-150/2290_Scanlan_-_Module_Complete_AGT.JPG?updatedAt=1768296266482",
+        "fileId": "694550525c7cd75eb8bea98c"
       }
     ]
   },
@@ -2961,8 +2756,7 @@
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-151/Coming1.gif?updatedAt=1766439146333",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-151/Coming1.gif?updatedAt=1766439146333",
-        "fileId": "694550555c7cd75eb8bebfd6",
-        "size": 823428
+        "fileId": "694550555c7cd75eb8bebfd6"
       }
     ]
   },
@@ -2986,8 +2780,7 @@
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-152/Coming1.gif?updatedAt=1766439148935",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-152/Coming1.gif?updatedAt=1766439148935",
-        "fileId": "694550595c7cd75eb8bed7c8",
-        "size": 823428
+        "fileId": "694550595c7cd75eb8bed7c8"
       }
     ]
   },
@@ -3011,8 +2804,7 @@
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-153/Coming1.gif?updatedAt=1766439151628",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-153/Coming1.gif?updatedAt=1766439151628",
-        "fileId": "6945505d5c7cd75eb8bee9df",
-        "size": 823428
+        "fileId": "6945505d5c7cd75eb8bee9df"
       }
     ]
   },
@@ -3036,8 +2828,7 @@
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-154/Coming1.gif?updatedAt=1766439154520",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-154/Coming1.gif?updatedAt=1766439154520",
-        "fileId": "694550615c7cd75eb8bf058c",
-        "size": 823428
+        "fileId": "694550615c7cd75eb8bf058c"
       }
     ]
   },
@@ -3061,15 +2852,14 @@
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-155/Coming1.gif?updatedAt=1766439157310",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-155/Coming1.gif?updatedAt=1766439157310",
-        "fileId": "694550665c7cd75eb8bf2431",
-        "size": 823428
+        "fileId": "694550665c7cd75eb8bf2431"
       }
     ]
   },
   {
     "projectNum": "156",
     "address": "105 Industrial Dr, Whitby, ON L1N 5Z9, Canada",
-    "owner": "Unknown",
+    "owner": "Unkown",
     "capacity": 203.13,
     "year": 2015,
     "program": "FIT 2",
@@ -3080,21 +2870,20 @@
     "inverter": "Advanced Energy",
     "notes": "",
     "lat": 43.8723381,
-    "lng": -78.91947809999999,
+    "lng": -78.9194781,
     "images": [
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-156/Coming1.gif?updatedAt=1766439160525",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-156/Coming1.gif?updatedAt=1766439160525",
-        "fileId": "6945506a5c7cd75eb8bf352f",
-        "size": 823428
+        "fileId": "6945506a5c7cd75eb8bf352f"
       }
     ]
   },
   {
     "projectNum": "157",
     "address": "377 MacKenzie Ave, Ajax, ON L1S 2E2, Canada",
-    "owner": "Unknown",
+    "owner": "Unkown",
     "capacity": 214.11,
     "year": 2015,
     "program": "FIT 2",
@@ -3111,39 +2900,36 @@
         "name": "157..png",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-157/157..png?updatedAt=1766439164878",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-157/157..png?updatedAt=1766439164878",
-        "fileId": "694550745c7cd75eb8bf71f9",
-        "size": 1917894
+        "fileId": "694550745c7cd75eb8bf71f9"
       },
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-157/Coming1.gif?updatedAt=1766439492028",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-157/Coming1.gif?updatedAt=1766439492028",
-        "fileId": "694550775c7cd75eb8bf81b1",
-        "size": 823428
+        "fileId": "694550775c7cd75eb8bf81b1"
       },
       {
         "name": "157._377_Mackenzie_-_Module_Complete_AGT.jpg",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-157/157._377_Mackenzie_-_Module_Complete_AGT.jpg?updatedAt=1766439495216",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-157/157._377_Mackenzie_-_Module_Complete_AGT.jpg?updatedAt=1766439495216",
-        "fileId": "6945507c5c7cd75eb8bf995d",
-        "size": 1386782
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-157/157._377_Mackenzie_-_Module_Complete_AGT.jpg?updatedAt=1768296325990",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-157/157._377_Mackenzie_-_Module_Complete_AGT.jpg?updatedAt=1768296325990",
+        "fileId": "6945507c5c7cd75eb8bf995d"
       }
     ]
   },
   {
     "projectNum": "158",
-    "address": "601 Canarctic Dr, Toronto, ON",
-    "owner": "Unknown",
+    "address": "601 Canarctic, Toronto, ON M3J 2P9, Canada",
+    "owner": "Unkown",
     "capacity": 225.06,
     "year": 2015,
     "program": "FIT 2",
     "projectType": "Rooftop",
     "clientType": "Commercial",
-    "module": "Canadian Solar",
+    "module": "Canadian solar",
     "racking": "HB Racking",
     "inverter": "Advanced Energy",
     "notes": "",
-    "lat": 43.77893419999999,
+    "lat": 43.7789342,
     "lng": -79.4841556,
     "images": []
   },
@@ -3165,17 +2951,15 @@
     "images": [
       {
         "name": "777_Hwy_18_-_Racking_and_Module_install.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-159/777_Hwy_18_-_Racking_and_Module_install.JPG?updatedAt=1766439173567",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-159/777_Hwy_18_-_Racking_and_Module_install.JPG?updatedAt=1766439173567",
-        "fileId": "694550815c7cd75eb8bfb894",
-        "size": 1262378
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-159/777_Hwy_18_-_Racking_and_Module_install.JPG?updatedAt=1768296254202",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-159/777_Hwy_18_-_Racking_and_Module_install.JPG?updatedAt=1768296254202",
+        "fileId": "694550815c7cd75eb8bfb894"
       },
       {
         "name": "DSC_0732.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-159/DSC_0732.JPG?updatedAt=1766439176533",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-159/DSC_0732.JPG?updatedAt=1766439176533",
-        "fileId": "694550865c7cd75eb8bfd9fe",
-        "size": 1408300
+        "fileId": "694550865c7cd75eb8bfd9fe"
       }
     ]
   },
@@ -3199,15 +2983,13 @@
         "name": "DSC_0772.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-160/DSC_0772.JPG?updatedAt=1766439179979",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-160/DSC_0772.JPG?updatedAt=1766439179979",
-        "fileId": "6945508b5c7cd75eb8bff233",
-        "size": 1309965
+        "fileId": "6945508b5c7cd75eb8bff233"
       },
       {
         "name": "DSC_0770.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-160/DSC_0770.JPG?updatedAt=1766439183391",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-160/DSC_0770.JPG?updatedAt=1766439183391",
-        "fileId": "694550905c7cd75eb8c00938",
-        "size": 1418371
+        "fileId": "694550905c7cd75eb8c00938"
       }
     ]
   },
@@ -3225,21 +3007,19 @@
     "inverter": "Advanced Energy",
     "notes": "",
     "lat": 42.0365694,
-    "lng": -82.58450839999999,
+    "lng": -82.5845084,
     "images": [
       {
         "name": "P1020118.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-161/P1020118.JPG?updatedAt=1766439196068",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-161/P1020118.JPG?updatedAt=1766439196068",
-        "fileId": "694550a55c7cd75eb8c08613",
-        "size": 2822144
+        "fileId": "694550a55c7cd75eb8c08613"
       },
       {
         "name": "P1020120.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-161/P1020120.JPG?updatedAt=1766439190166",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-161/P1020120.JPG?updatedAt=1766439190166",
-        "fileId": "694552775c7cd75eb8cb6f83",
-        "size": 2870272
+        "fileId": "694552775c7cd75eb8cb6f83"
       }
     ]
   },
@@ -3257,21 +3037,19 @@
     "inverter": "Advanced Energy",
     "notes": "",
     "lat": 42.3992877,
-    "lng": -82.18695319999999,
+    "lng": -82.1869532,
     "images": [
       {
         "name": "P1020118.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-162/P1020118.JPG?updatedAt=1766439202520",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-162/P1020118.JPG?updatedAt=1766439202520",
-        "fileId": "694550ae5c7cd75eb8c0c3b2",
-        "size": 2822144
+        "fileId": "694550ae5c7cd75eb8c0c3b2"
       },
       {
         "name": "P1020120.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-162/P1020120.JPG?updatedAt=1766439208155",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-162/P1020120.JPG?updatedAt=1766439208155",
-        "fileId": "694550b65c7cd75eb8c0eb61",
-        "size": 2870272
+        "fileId": "694550b65c7cd75eb8c0eb61"
       }
     ]
   },
@@ -3295,15 +3073,13 @@
         "name": "DSC_0700.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-163/DSC_0700.JPG?updatedAt=1766439211939",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-163/DSC_0700.JPG?updatedAt=1766439211939",
-        "fileId": "694550bd5c7cd75eb8c11c40",
-        "size": 1532317
+        "fileId": "694550bd5c7cd75eb8c11c40"
       },
       {
         "name": "DSC_0703.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-163/DSC_0703.JPG?updatedAt=1766439215026",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-163/DSC_0703.JPG?updatedAt=1766439215026",
-        "fileId": "694550c15c7cd75eb8c12d9d",
-        "size": 1419183
+        "fileId": "694550c15c7cd75eb8c12d9d"
       }
     ]
   },
@@ -3327,22 +3103,19 @@
         "name": "DSC_0806.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-165/DSC_0806.JPG?updatedAt=1766439219368",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-165/DSC_0806.JPG?updatedAt=1766439219368",
-        "fileId": "694550c95c7cd75eb8c14f3e",
-        "size": 1410795
+        "fileId": "694550c95c7cd75eb8c14f3e"
       },
       {
         "name": "DSC_0804.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-165/DSC_0804.JPG?updatedAt=1766439223268",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-165/DSC_0804.JPG?updatedAt=1766439223268",
-        "fileId": "694550cf5c7cd75eb8c178c5",
-        "size": 1688044
+        "fileId": "694550cf5c7cd75eb8c178c5"
       },
       {
         "name": "DSC_0795.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-165/DSC_0795.JPG?updatedAt=1766439500800",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-165/DSC_0795.JPG?updatedAt=1766439500800",
-        "fileId": "694550d45c7cd75eb8c19728",
-        "size": 1535461
+        "fileId": "694550d45c7cd75eb8c19728"
       }
     ]
   },
@@ -3364,24 +3137,21 @@
     "images": [
       {
         "name": "166._.png",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-166/166._.png?updatedAt=1766439503564",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-166/166._.png?updatedAt=1766439503564",
-        "fileId": "6945527c5c7cd75eb8cb96fc",
-        "size": 1121386
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-166/166._.png?updatedAt=1768296300781",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-166/166._.png?updatedAt=1768296300781",
+        "fileId": "6945527c5c7cd75eb8cb96fc"
       },
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-166/Coming1.gif?updatedAt=1766439505580",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-166/Coming1.gif?updatedAt=1766439505580",
-        "fileId": "6945527f5c7cd75eb8cba4a1",
-        "size": 823428
+        "fileId": "6945527f5c7cd75eb8cba4a1"
       },
       {
         "name": "166._1655_Tricont_Ave.jpg",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-166/166._1655_Tricont_Ave.jpg?updatedAt=1766439508062",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-166/166._1655_Tricont_Ave.jpg?updatedAt=1766439508062",
-        "fileId": "694552835c7cd75eb8cbb880",
-        "size": 1520128
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-166/166._1655_Tricont_Ave.jpg?updatedAt=1768296301755",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-166/166._1655_Tricont_Ave.jpg?updatedAt=1768296301755",
+        "fileId": "694552835c7cd75eb8cbb880"
       }
     ]
   },
@@ -3398,29 +3168,26 @@
     "racking": "Polar Racking",
     "inverter": "Sungrow",
     "notes": "",
-    "lat": 42.26469489999999,
-    "lng": -82.43837479999999,
+    "lat": 42.2646949,
+    "lng": -82.4383748,
     "images": [
       {
         "name": "IMG_8769.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-168/IMG_8769.JPG?updatedAt=1766439513119",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-168/IMG_8769.JPG?updatedAt=1766439513119",
-        "fileId": "6945528b5c7cd75eb8cbecb1",
-        "size": 3062836
+        "fileId": "6945528b5c7cd75eb8cbecb1"
       },
       {
         "name": "3434_033.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-168/3434_033.JPG?updatedAt=1766439520746",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-168/3434_033.JPG?updatedAt=1766439520746",
-        "fileId": "694552995c7cd75eb8cc2472",
-        "size": 5722031
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-168/3434_033.JPG?updatedAt=1768296298103",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-168/3434_033.JPG?updatedAt=1768296298103",
+        "fileId": "694552995c7cd75eb8cc2472"
       },
       {
         "name": "3434_032.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-168/3434_032.JPG?updatedAt=1766439527988",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-168/3434_032.JPG?updatedAt=1766439527988",
-        "fileId": "694552a55c7cd75eb8cc6b2d",
-        "size": 4911722
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-168/3434_032.JPG?updatedAt=1768296299612",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-168/3434_032.JPG?updatedAt=1768296299612",
+        "fileId": "694552a55c7cd75eb8cc6b2d"
       }
     ]
   },
@@ -3444,22 +3211,19 @@
         "name": "169..png",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-169/169..png?updatedAt=1766439530847",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-169/169..png?updatedAt=1766439530847",
-        "fileId": "694552ab5c7cd75eb8cc81ab",
-        "size": 974425
+        "fileId": "694552ab5c7cd75eb8cc81ab"
       },
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-169/Coming1.gif?updatedAt=1766439532856",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-169/Coming1.gif?updatedAt=1766439532856",
-        "fileId": "694552ae5c7cd75eb8cc99cb",
-        "size": 823428
+        "fileId": "694552ae5c7cd75eb8cc99cb"
       },
       {
         "name": "169._100_King_ST_W.jpg",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-169/169._100_King_ST_W.jpg?updatedAt=1766439538055",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-169/169._100_King_ST_W.jpg?updatedAt=1766439538055",
-        "fileId": "694552b65c7cd75eb8ccbb5e",
-        "size": 3424508
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-169/169._100_King_ST_W.jpg?updatedAt=1768296250604",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-169/169._100_King_ST_W.jpg?updatedAt=1768296250604",
+        "fileId": "694552b65c7cd75eb8ccbb5e"
       }
     ]
   },
@@ -3477,35 +3241,31 @@
     "inverter": "Sungrow",
     "notes": "",
     "lat": 43.8100288,
-    "lng": -79.43286309999999,
+    "lng": -79.4328631,
     "images": [
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-170/Coming1.gif?updatedAt=1766439544597",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-170/Coming1.gif?updatedAt=1766439544597",
-        "fileId": "694552c15c7cd75eb8ccfd51",
-        "size": 823428
+        "fileId": "694552c15c7cd75eb8ccfd51"
       },
       {
         "name": "IMG_4257.jpg",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-170/IMG_4257.jpg?updatedAt=1766439555307",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-170/IMG_4257.jpg?updatedAt=1766439555307",
-        "fileId": "694552d45c7cd75eb8cd7bae",
-        "size": 7485853
+        "fileId": "694552d45c7cd75eb8cd7bae"
       },
       {
         "name": "IMG_4255__1_.jpg",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-170/IMG_4255__1_.jpg?updatedAt=1766439559577",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-170/IMG_4255__1_.jpg?updatedAt=1766439559577",
-        "fileId": "694552db5c7cd75eb8cdacb5",
-        "size": 2308344
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-170/IMG_4255__1_.jpg?updatedAt=1768296320950",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-170/IMG_4255__1_.jpg?updatedAt=1768296320950",
+        "fileId": "694552db5c7cd75eb8cdacb5"
       },
       {
         "name": "102..png",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-170/102..png?updatedAt=1766439543062",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-170/102..png?updatedAt=1766439543062",
-        "fileId": "694554cf5c7cd75eb8d9beea",
-        "size": 2501393
+        "fileId": "694554cf5c7cd75eb8d9beea"
       }
     ]
   },
@@ -3527,24 +3287,21 @@
     "images": [
       {
         "name": "Photo_2017-04-18__1_59_44_PM.jpg",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-171/Photo_2017-04-18__1_59_44_PM.jpg?updatedAt=1766439564702",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-171/Photo_2017-04-18__1_59_44_PM.jpg?updatedAt=1766439564702",
-        "fileId": "694552e25c7cd75eb8cdd793",
-        "size": 2916432
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-171/Photo_2017-04-18__1_59_44_PM.jpg?updatedAt=1768296256003",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-171/Photo_2017-04-18__1_59_44_PM.jpg?updatedAt=1768296256003",
+        "fileId": "694552e25c7cd75eb8cdd793"
       },
       {
         "name": "Photo_2017-04-18__2_04_33_PM.jpg",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-171/Photo_2017-04-18__2_04_33_PM.jpg?updatedAt=1766439894939",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-171/Photo_2017-04-18__2_04_33_PM.jpg?updatedAt=1766439894939",
-        "fileId": "694552f45c7cd75eb8ce4f1a",
-        "size": 7793494
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-171/Photo_2017-04-18__2_04_33_PM.jpg?updatedAt=1768296257968",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-171/Photo_2017-04-18__2_04_33_PM.jpg?updatedAt=1768296257968",
+        "fileId": "694552f45c7cd75eb8ce4f1a"
       },
       {
         "name": "Photo_2017-04-18__2_04_14_PM.jpg",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-171/Photo_2017-04-18__2_04_14_PM.jpg?updatedAt=1766439579714",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-171/Photo_2017-04-18__2_04_14_PM.jpg?updatedAt=1766439579714",
-        "fileId": "694552fa5c7cd75eb8ce75fb",
-        "size": 2671495
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-171/Photo_2017-04-18__2_04_14_PM.jpg?updatedAt=1768296260067",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-171/Photo_2017-04-18__2_04_14_PM.jpg?updatedAt=1768296260067",
+        "fileId": "694552fa5c7cd75eb8ce75fb"
       }
     ]
   },
@@ -3566,10 +3323,9 @@
     "images": [
       {
         "name": "3434_004.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-172/3434_004.JPG?updatedAt=1766439588105",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-172/3434_004.JPG?updatedAt=1766439588105",
-        "fileId": "694553085c7cd75eb8cecd7e",
-        "size": 5239380
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-172/3434_004.JPG?updatedAt=1768296316107",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-172/3434_004.JPG?updatedAt=1768296316107",
+        "fileId": "694553085c7cd75eb8cecd7e"
       }
     ]
   },
@@ -3587,21 +3343,19 @@
     "inverter": "Sungrow",
     "notes": "",
     "lat": 45.2373466,
-    "lng": -79.30433169999999,
+    "lng": -79.3043317,
     "images": [
       {
         "name": "DJI_1337.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-173/DJI_1337.JPG?updatedAt=1766439614709",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-173/DJI_1337.JPG?updatedAt=1766439614709",
-        "fileId": "6945532c5c7cd75eb8cfa987",
-        "size": 8298465
+        "fileId": "6945532c5c7cd75eb8cfa987"
       },
       {
         "name": "DJI_1343.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-173/DJI_1343.JPG?updatedAt=1766439602263",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-173/DJI_1343.JPG?updatedAt=1766439602263",
-        "fileId": "694554e85c7cd75eb8da5c46",
-        "size": 8098295
+        "fileId": "694554e85c7cd75eb8da5c46"
       }
     ]
   },
@@ -3625,28 +3379,25 @@
         "name": "DJI_1213.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-174/DJI_1213.JPG?updatedAt=1766439629298",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-174/DJI_1213.JPG?updatedAt=1766439629298",
-        "fileId": "694553405c7cd75eb8d01812",
-        "size": 9025970
+        "fileId": "694553405c7cd75eb8d01812"
       },
       {
         "name": "DJI_1228.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-174/DJI_1228.JPG?updatedAt=1766439644552",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-174/DJI_1228.JPG?updatedAt=1766439644552",
-        "fileId": "694553535c7cd75eb8d093a0",
-        "size": 8781044
+        "fileId": "694553535c7cd75eb8d093a0"
       },
       {
         "name": "DJI_1031.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-174/DJI_1031.JPG?updatedAt=1766439656933",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-174/DJI_1031.JPG?updatedAt=1766439656933",
-        "fileId": "694553655c7cd75eb8d11aa3",
-        "size": 7382257
+        "fileId": "694553655c7cd75eb8d11aa3"
       }
     ]
   },
   {
     "projectNum": "177",
-    "address": "1666 Corbeil Road, East Ferris, ON P0H 1K0, Canada",
+    "address": "1666 Corbeil Road East Ferris, Ontario, P0H 1K0",
     "owner": "Rose",
     "capacity": 599.695,
     "year": 2020,
@@ -3664,8 +3415,7 @@
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-177/Coming1.gif?updatedAt=1766439659370",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-177/Coming1.gif?updatedAt=1766439659370",
-        "fileId": "694553685c7cd75eb8d12c1a",
-        "size": 823428
+        "fileId": "694553685c7cd75eb8d12c1a"
       }
     ]
   },
@@ -3689,15 +3439,13 @@
         "name": "DJI_0620.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-178/DJI_0620.JPG?updatedAt=1766439670243",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-178/DJI_0620.JPG?updatedAt=1766439670243",
-        "fileId": "694553775c7cd75eb8d18166",
-        "size": 6079828
+        "fileId": "694553775c7cd75eb8d18166"
       },
       {
         "name": "DJI_0611.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-178/DJI_0611.JPG?updatedAt=1766439679633",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-178/DJI_0611.JPG?updatedAt=1766439679633",
-        "fileId": "694553855c7cd75eb8d1ce8f",
-        "size": 5906798
+        "fileId": "694553855c7cd75eb8d1ce8f"
       }
     ]
   },
@@ -3715,21 +3463,19 @@
     "inverter": "Sungrow",
     "notes": "",
     "lat": 42.992235,
-    "lng": -81.21406160000001,
+    "lng": -81.2140616,
     "images": [
       {
         "name": "DJI_0158.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-180/DJI_0158.JPG?updatedAt=1766439690823",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-180/DJI_0158.JPG?updatedAt=1766439690823",
-        "fileId": "694553965c7cd75eb8d23499",
-        "size": 6863690
+        "fileId": "694553965c7cd75eb8d23499"
       },
       {
         "name": "DJI_0152.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-180/DJI_0152.JPG?updatedAt=1766439701831",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-180/DJI_0152.JPG?updatedAt=1766439701831",
-        "fileId": "694553a45c7cd75eb8d2784a",
-        "size": 6578271
+        "fileId": "694553a45c7cd75eb8d2784a"
       }
     ]
   },
@@ -3753,15 +3499,13 @@
         "name": "181..png",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-181/181..png?updatedAt=1766439705513",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-181/181..png?updatedAt=1766439705513",
-        "fileId": "694553a95c7cd75eb8d2a194",
-        "size": 1028787
+        "fileId": "694553a95c7cd75eb8d2a194"
       },
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-181/Coming1.gif?updatedAt=1766439900318",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-181/Coming1.gif?updatedAt=1766439900318",
-        "fileId": "694554ed5c7cd75eb8da82ed",
-        "size": 823428
+        "fileId": "694554ed5c7cd75eb8da82ed"
       }
     ]
   },
@@ -3785,15 +3529,13 @@
         "name": "182..png",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-182/182..png?updatedAt=1766439904023",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-182/182..png?updatedAt=1766439904023",
-        "fileId": "694554f25c7cd75eb8da9bda",
-        "size": 1267984
+        "fileId": "694554f25c7cd75eb8da9bda"
       },
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-182/Coming1.gif?updatedAt=1766439906147",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-182/Coming1.gif?updatedAt=1766439906147",
-        "fileId": "694554f65c7cd75eb8daae58",
-        "size": 823428
+        "fileId": "694554f65c7cd75eb8daae58"
       }
     ]
   },
@@ -3817,15 +3559,13 @@
         "name": "183..png",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-183/183..png?updatedAt=1766439909594",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-183/183..png?updatedAt=1766439909594",
-        "fileId": "694554fa5c7cd75eb8dacba6",
-        "size": 1213151
+        "fileId": "694554fa5c7cd75eb8dacba6"
       },
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-183/Coming1.gif?updatedAt=1766439911645",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-183/Coming1.gif?updatedAt=1766439911645",
-        "fileId": "694554fd5c7cd75eb8dadd3c",
-        "size": 823428
+        "fileId": "694554fd5c7cd75eb8dadd3c"
       }
     ]
   },
@@ -3847,17 +3587,15 @@
     "images": [
       {
         "name": "185._.png",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-185/185._.png?updatedAt=1766439913862",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-185/185._.png?updatedAt=1766439913862",
-        "fileId": "694555005c7cd75eb8daeda8",
-        "size": 609556
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-185/185._.png?updatedAt=1768296261936",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-185/185._.png?updatedAt=1768296261936",
+        "fileId": "694555005c7cd75eb8daeda8"
       },
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-185/Coming1.gif?updatedAt=1766439916196",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-185/Coming1.gif?updatedAt=1766439916196",
-        "fileId": "694555025c7cd75eb8daf8a1",
-        "size": 823428
+        "fileId": "694555025c7cd75eb8daf8a1"
       }
     ]
   },
@@ -3881,15 +3619,13 @@
         "name": "186..png",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-186/186..png?updatedAt=1766439919629",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-186/186..png?updatedAt=1766439919629",
-        "fileId": "694555055c7cd75eb8db0bd6",
-        "size": 843906
+        "fileId": "694555055c7cd75eb8db0bd6"
       },
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-186/Coming1.gif?updatedAt=1766439921797",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-186/Coming1.gif?updatedAt=1766439921797",
-        "fileId": "694555085c7cd75eb8db161e",
-        "size": 823428
+        "fileId": "694555085c7cd75eb8db161e"
       }
     ]
   },
@@ -3913,15 +3649,13 @@
         "name": "187..png",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-187/187..png?updatedAt=1766439924370",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-187/187..png?updatedAt=1766439924370",
-        "fileId": "6945550b5c7cd75eb8db2ec3",
-        "size": 752315
+        "fileId": "6945550b5c7cd75eb8db2ec3"
       },
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-187/Coming1.gif?updatedAt=1766439926667",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-187/Coming1.gif?updatedAt=1766439926667",
-        "fileId": "6945550e5c7cd75eb8db3ffd",
-        "size": 823428
+        "fileId": "6945550e5c7cd75eb8db3ffd"
       }
     ]
   },
@@ -3945,15 +3679,13 @@
         "name": "188..png",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-188/188..png?updatedAt=1766439929326",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-188/188..png?updatedAt=1766439929326",
-        "fileId": "694555125c7cd75eb8db5340",
-        "size": 917634
+        "fileId": "694555125c7cd75eb8db5340"
       },
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-188/Coming1.gif?updatedAt=1766439931279",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-188/Coming1.gif?updatedAt=1766439931279",
-        "fileId": "694555155c7cd75eb8db5ebe",
-        "size": 823428
+        "fileId": "694555155c7cd75eb8db5ebe"
       }
     ]
   },
@@ -3977,15 +3709,13 @@
         "name": "189..png",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-189/189..png?updatedAt=1766439934058",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-189/189..png?updatedAt=1766439934058",
-        "fileId": "694555195c7cd75eb8db7372",
-        "size": 985708
+        "fileId": "694555195c7cd75eb8db7372"
       },
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-189/Coming1.gif?updatedAt=1766439936221",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-189/Coming1.gif?updatedAt=1766439936221",
-        "fileId": "6945551c5c7cd75eb8db8040",
-        "size": 823428
+        "fileId": "6945551c5c7cd75eb8db8040"
       }
     ]
   },
@@ -4009,22 +3739,20 @@
         "name": "191..png",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-191/191..png?updatedAt=1766439938781",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-191/191..png?updatedAt=1766439938781",
-        "fileId": "694555225c7cd75eb8dbb466",
-        "size": 1012059
+        "fileId": "694555225c7cd75eb8dbb466"
       },
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-191/Coming1.gif?updatedAt=1766439941257",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-191/Coming1.gif?updatedAt=1766439941257",
-        "fileId": "694555255c7cd75eb8dbd1e6",
-        "size": 823428
+        "fileId": "694555255c7cd75eb8dbd1e6"
       }
     ]
   },
   {
     "projectNum": "192",
     "address": "606 Hwy 6, Wiarton, ON N0H 2T0, Canada",
-    "owner": "Steffler",
+    "owner": "Steffler ",
     "capacity": 600,
     "year": 2020,
     "program": "FIT 4",
@@ -4035,14 +3763,13 @@
     "inverter": "Huawei",
     "notes": "",
     "lat": 44.78029,
-    "lng": -81.18979000000002,
+    "lng": -81.18979,
     "images": [
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-192/Coming1.gif?updatedAt=1766439944577",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-192/Coming1.gif?updatedAt=1766439944577",
-        "fileId": "694555285c7cd75eb8dbea1b",
-        "size": 823428
+        "fileId": "694555285c7cd75eb8dbea1b"
       }
     ]
   },
@@ -4060,14 +3787,13 @@
     "inverter": "Huawei",
     "notes": "",
     "lat": 45.03132,
-    "lng": -81.31774999999999,
+    "lng": -81.31775,
     "images": [
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-193/Coming1.gif?updatedAt=1766439947295",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-193/Coming1.gif?updatedAt=1766439947295",
-        "fileId": "6945552b5c7cd75eb8dbfd32",
-        "size": 823428
+        "fileId": "6945552b5c7cd75eb8dbfd32"
       }
     ]
   },
@@ -4091,15 +3817,13 @@
         "name": "194..png",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-194/194..png?updatedAt=1766439949248",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-194/194..png?updatedAt=1766439949248",
-        "fileId": "6945552e5c7cd75eb8dc0ba5",
-        "size": 381266
+        "fileId": "6945552e5c7cd75eb8dc0ba5"
       },
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-194/Coming1.gif?updatedAt=1766439951525",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-194/Coming1.gif?updatedAt=1766439951525",
-        "fileId": "694555305c7cd75eb8dc29a0",
-        "size": 823428
+        "fileId": "694555305c7cd75eb8dc29a0"
       }
     ]
   },
@@ -4123,21 +3847,19 @@
         "name": "195..png",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-195/195..png?updatedAt=1766439953811",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-195/195..png?updatedAt=1766439953811",
-        "fileId": "694555335c7cd75eb8dc3605",
-        "size": 566151
+        "fileId": "694555335c7cd75eb8dc3605"
       },
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-195/Coming1.gif?updatedAt=1766439955819",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-195/Coming1.gif?updatedAt=1766439955819",
-        "fileId": "694555365c7cd75eb8dc41d1",
-        "size": 823428
+        "fileId": "694555365c7cd75eb8dc41d1"
       }
     ]
   },
   {
     "projectNum": "196",
-    "address": "555 Domtar Rd, Utterson, ON P0B 1M0, Canada",
+    "address": "Town of, 555 Domtar Rd, Utterson, ON P0B 1M0, Canada",
     "owner": "Domtar",
     "capacity": 600,
     "year": 2020,
@@ -4155,21 +3877,19 @@
         "name": "196..png",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-196/196..png?updatedAt=1766439957856",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-196/196..png?updatedAt=1766439957856",
-        "fileId": "694555385c7cd75eb8dc4d30",
-        "size": 372306
+        "fileId": "694555385c7cd75eb8dc4d30"
       },
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-196/Coming1.gif?updatedAt=1766439960346",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-196/Coming1.gif?updatedAt=1766439960346",
-        "fileId": "6945553b5c7cd75eb8dc58ab",
-        "size": 823428
+        "fileId": "6945553b5c7cd75eb8dc58ab"
       }
     ]
   },
   {
     "projectNum": "197",
-    "address": "520 Domtar Rd, Utterson, ON P0B 1M0, Canada",
+    "address": "Town of, 520 Domtar Rd, Utterson, ON P0B 1M0, Canada",
     "owner": "Lancelot",
     "capacity": 600,
     "year": 2020,
@@ -4187,21 +3907,19 @@
         "name": "197..png",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-197/197..png?updatedAt=1766439962352",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-197/197..png?updatedAt=1766439962352",
-        "fileId": "6945553d5c7cd75eb8dc65d3",
-        "size": 371734
+        "fileId": "6945553d5c7cd75eb8dc65d3"
       },
       {
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-197/Coming1.gif?updatedAt=1766439964447",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-197/Coming1.gif?updatedAt=1766439964447",
-        "fileId": "694555405c7cd75eb8dc74e1",
-        "size": 823428
+        "fileId": "694555405c7cd75eb8dc74e1"
       }
     ]
   },
   {
     "projectNum": "198",
-    "address": "20 Stephenson Road 12 West, Huntsville, ON P0B 1M0",
+    "address": "20 Stephenson Road 12 West, Huntsville, Ontario P0B 1M0",
     "owner": "Stephenson",
     "capacity": 600,
     "year": 2020,
@@ -4219,14 +3937,13 @@
         "name": "Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-198/Coming1.gif?updatedAt=1766439966934",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-198/Coming1.gif?updatedAt=1766439966934",
-        "fileId": "6945572a5c7cd75eb8e80033",
-        "size": 823428
+        "fileId": "6945572a5c7cd75eb8e80033"
       }
     ]
   },
   {
     "projectNum": "199",
-    "address": "42 Stephenson Road 12 West, Huntsville, ON",
+    "address": "42 Stephenson Road 12 West, Huntsville, Ontario",
     "owner": "Stephenson",
     "capacity": 600,
     "year": 2020,
@@ -4238,7 +3955,43 @@
     "inverter": "Huawei",
     "notes": "",
     "lat": 45.2761346,
-    "lng": -79.28267679999999,
+    "lng": -79.2826768,
     "images": []
+  },
+  {
+    "projectNum": "999",
+    "address": "42 Stephenson Road 12 West, Huntsville, Ontario",
+    "owner": "Stephenson",
+    "capacity": 600,
+    "year": 2020,
+    "program": "FIT 4",
+    "projectType": "Groundmount",
+    "clientType": "N/A",
+    "module": "Longi",
+    "racking": "FlexRack SAT",
+    "inverter": "Huawei",
+    "notes": "",
+    "lat": 45.2761346,
+    "lng": -79.2826768,
+    "images": [
+      {
+        "name": "40StGeorge1.JPG",
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-999/40StGeorge1.JPG?updatedAt=1768210100902",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-999/40StGeorge1.JPG?updatedAt=1768210100902",
+        "fileId": "6964beb35c7cd75eb8690c3c"
+      },
+      {
+        "name": "S1002199_DoNotUse.JPG",
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-999/S1002199_DoNotUse.JPG?updatedAt=1768210104008",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-999/S1002199_DoNotUse.JPG?updatedAt=1768210104008",
+        "fileId": "6964beb65c7cd75eb8691ef6"
+      },
+      {
+        "name": "S1002200.JPG",
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-999/S1002200.JPG?updatedAt=1768210107001",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-999/S1002200.JPG?updatedAt=1768210107001",
+        "fileId": "6964beb95c7cd75eb869313f"
+      }
+    ]
   }
 ]
