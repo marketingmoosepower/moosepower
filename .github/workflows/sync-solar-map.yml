@@ -347,8 +347,8 @@ jobs:
             console.log(`\n✅ Generated ${projects.length} projects`);
             
             // Save to file
-            fs.writeFileSync('projects-data-test.json', JSON.stringify(projects, null, 2));
-            console.log('📁 Saved projects-data-test.json');
+            fs.writeFileSync('projects-data.json', JSON.stringify(projects, null, 2));
+            console.log('📁 Saved projects-data.json');
           }
 
           main().catch(err => {
@@ -367,10 +367,10 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add projects-data-test.json
+          git add projects-data.json
           git stash
           git pull --rebase origin main
           git stash pop || true
-          git add projects-data-test.json
+          git add projects-data.json
           git diff --staged --quiet || git commit -m "Auto-sync: Update projects data (test)"
           git push
