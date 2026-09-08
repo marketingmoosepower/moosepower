@@ -659,7 +659,9 @@ html, body { height: 100%; font-family: var(--font-family); background: var(--co
       projectTypes: [],
       clients: [],
       modules: []
-    }
+    },
+    // Slider bounds — overwritten from real data in setRangeBounds()
+    bounds: { capMax: 4000, yearMin: 2010, yearMax: 2026 }
   };
 
   // ============================================
@@ -697,6 +699,7 @@ html, body { height: 100%; font-family: var(--font-family); background: var(--co
       }
       
       extractFilterOptions();
+      setRangeBounds();
       renderFilterCheckboxes();
       updateRangeDisplays();
       renderMarkers();
@@ -813,6 +816,33 @@ html, body { height: 100%; font-family: var(--font-family); background: var(--co
     state.filterOptions.modules = uniqueFromField(state.projects, 'module');
   }
 
+  /**
+   * Sizes the capacity/year sliders to the actual data so nothing is
+   * silently filtered out by a hard-coded max (e.g. a 15 MW project
+   * disappearing behind a 4 MW slider cap).
+   */
+  function setRangeBounds() {
+    const caps = state.projects.map(p => p.capacity);
+    const years = state.projects.map(p => p.year);
+
+    const capMax = Math.ceil(Math.max(...caps) / 100) * 100;
+    const yearMin = Math.min(...years);
+    const yearMax = Math.max(...years);
+
+    state.bounds = { capMax, yearMin, yearMax };
+
+    $('capMin').max = capMax;
+    $('capMax').max = capMax;
+    $('capMax').value = capMax;
+
+    $('yearMin').min = yearMin;  $('yearMin').max = yearMax;  $('yearMin').value = yearMin;
+    $('yearMax').min = yearMin;  $('yearMax').max = yearMax;  $('yearMax').value = yearMax;
+
+    state.filters.capMax = capMax;
+    state.filters.yearMin = yearMin;
+    state.filters.yearMax = yearMax;
+  }
+
   function renderFilterCheckboxes() {
     renderCheckboxGroup('programFilters', state.filterOptions.programs, 'program');
     renderCheckboxGroup('projectTypeFilters', state.filterOptions.projectTypes, 'projectType');
@@ -885,11 +915,13 @@ html, body { height: 100%; font-family: var(--font-family); background: var(--co
         if (!searchable.includes(s)) return false;
       }
       
-      // Capacity
-      if (p.capacity < state.filters.capMin || p.capacity > state.filters.capMax) return false;
-      
-      // Year
-      if (p.year < state.filters.yearMin || p.year > state.filters.yearMax) return false;
+      // Capacity (upper bound is open when slider sits at its max)
+      const capOpen = state.filters.capMax >= state.bounds.capMax;
+      if (p.capacity < state.filters.capMin || (!capOpen && p.capacity > state.filters.capMax)) return false;
+
+      // Year (upper bound is open when slider sits at its max)
+      const yearOpen = state.filters.yearMax >= state.bounds.yearMax;
+      if (p.year < state.filters.yearMin || (!yearOpen && p.year > state.filters.yearMax)) return false;
       
       // Program - supports comma-separated values
       if (!matchesCommaField(state.filters.programs, p.program)) return false;
@@ -1224,20 +1256,20 @@ html, body { height: 100%; font-family: var(--font-family); background: var(--co
     state.filters = {
       search: '',
       capMin: 0,
-      capMax: 4000,
-      yearMin: 2010,
-      yearMax: 2026,
+      capMax: state.bounds.capMax,
+      yearMin: state.bounds.yearMin,
+      yearMax: state.bounds.yearMax,
       programs: [],
       projectTypes: [],
       clients: [],
       modules: []
     };
-    
+
     $('searchInput').value = '';
     $('capMin').value = 0;
-    $('capMax').value = 4000;
-    $('yearMin').value = 2010;
-    $('yearMax').value = 2026;
+    $('capMax').value = state.bounds.capMax;
+    $('yearMin').value = state.bounds.yearMin;
+    $('yearMax').value = state.bounds.yearMax;
     
     document.querySelectorAll('.checkbox-list input').forEach(cb => cb.checked = false);
     
