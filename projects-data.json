@@ -4192,5 +4192,47 @@
         "fileId": "6aa048b8ead997d09af45171"
       }
     ]
+  },
+  {
+    "projectNum": "207",
+    "address": "750 Goodyear Rd, Greater Napanee, ON K7R 3L2",
+    "owner": "Skyline",
+    "capacity": 15000,
+    "year": 2026,
+    "program": "Re-Power",
+    "projectType": "Groundmount",
+    "clientType": "Industrial",
+    "module": "Canadian Solar",
+    "racking": "Kinetic",
+    "inverter": "Solis",
+    "notes": "",
+    "lat": 44.2976117,
+    "lng": -76.9335697,
+    "images": [
+      {
+        "name": "S1030157.JPG",
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-207/S1030157.JPG?updatedAt=1788889258296",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-207/S1030157.JPG?updatedAt=1788889258296",
+        "fileId": "6aa048a9ead997d09af3fb59"
+      },
+      {
+        "name": "S1030077.JPG",
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-207/S1030077.JPG?updatedAt=1788889269488",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-207/S1030077.JPG?updatedAt=1788889269488",
+        "fileId": "6aa048b4ead997d09af4426d"
+      },
+      {
+        "name": "S1030132.JPG",
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-207/S1030132.JPG?updatedAt=1788889271129",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-207/S1030132.JPG?updatedAt=1788889271129",
+        "fileId": "6aa048b6ead997d09af4495d"
+      },
+      {
+        "name": "Top_view_of_panel_layout_DSC_0011.JPG",
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-207/Top_view_of_panel_layout_DSC_0011.JPG?updatedAt=1788889272427",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-207/Top_view_of_panel_layout_DSC_0011.JPG?updatedAt=1788889272427",
+        "fileId": "6aa048b8ead997d09af45171"
+      }
+    ]
   }
 ]
