@@ -3966,38 +3966,26 @@
     ]
   },
   {
-    "projectNum": "999",
-    "address": "42 Stephenson Road 12 West, Huntsville, Ontario",
-    "owner": "Stephenson",
-    "capacity": 600,
-    "year": 2020,
-    "program": "FIT 4",
-    "projectType": "Groundmount",
-    "clientType": "N/A",
+    "projectNum": "200",
+    "address": "140 Goddard Cres, Cambridge, ON N3E 0A9",
+    "owner": "Heffner Development Group",
+    "capacity": 134,
+    "year": 2026,
+    "program": "Re-Power",
+    "projectType": "Rooftop",
+    "clientType": "Commercial",
     "module": "Longi",
-    "racking": "FlexRack SAT",
-    "inverter": "Huawei",
+    "racking": "Terragen",
+    "inverter": "Solis",
     "notes": "",
     "lat": 45.2761346,
     "lng": -79.2826768,
     "images": [
       {
-        "name": "40StGeorge1.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-999/40StGeorge1.JPG?updatedAt=1768210100902",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-999/40StGeorge1.JPG?updatedAt=1768210100902",
-        "fileId": "6964beb35c7cd75eb8690c3c"
-      },
-      {
-        "name": "S1002199_DoNotUse.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-999/S1002199_DoNotUse.JPG?updatedAt=1768210104008",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-999/S1002199_DoNotUse.JPG?updatedAt=1768210104008",
-        "fileId": "6964beb65c7cd75eb8691ef6"
-      },
-      {
-        "name": "S1002200.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-999/S1002200.JPG?updatedAt=1768210107001",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-999/S1002200.JPG?updatedAt=1768210107001",
-        "fileId": "6964beb95c7cd75eb869313f"
+        "name": "Copy_of_Coming1.gif",
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-200/Copy_of_Coming1.gif?updatedAt=1788889295354",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-200/Copy_of_Coming1.gif?updatedAt=1788889295354",
+        "fileId": "6aa048cfead997d09af4a530"
       }
     ]
   }
