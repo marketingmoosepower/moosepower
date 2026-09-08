@@ -3956,7 +3956,14 @@
     "notes": "",
     "lat": 45.2761346,
     "lng": -79.2826768,
-    "images": []
+    "images": [
+      {
+        "name": "Copy_of_Coming1.gif",
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-199/Copy_of_Coming1.gif?updatedAt=1788889296427",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-199/Copy_of_Coming1.gif?updatedAt=1788889296427",
+        "fileId": "6aa048d0ead997d09af4a81e"
+      }
+    ]
   },
   {
     "projectNum": "999",
