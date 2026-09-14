@@ -3627,7 +3627,7 @@
   },
   {
     "projectNum": "186",
-    "address": "776054 ON-10, Berkeley, ON N0C 1H0",
+    "address": "776054 ON-10, Berkeley, ON N0C 1H0, Canada",
     "owner": "Madill 1",
     "capacity": 600,
     "year": 2020,
@@ -3638,8 +3638,8 @@
     "racking": "FlexRack SAT",
     "inverter": "Huawei",
     "notes": "",
-    "lat": 37.8715226,
-    "lng": -122.273042,
+    "lat": 44.366114,
+    "lng": -80.7261238,
     "images": [
       {
         "name": "186..png",
