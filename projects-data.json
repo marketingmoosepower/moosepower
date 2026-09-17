@@ -4140,18 +4140,6 @@
     "lng": -80.7267742,
     "images": [
       {
-        "name": "S1020734.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-205/S1020734.JPG?updatedAt=1788889275579",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-205/S1020734.JPG?updatedAt=1788889275579",
-        "fileId": "6aa048bbead997d09af45b38"
-      },
-      {
-        "name": "S1020728.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-205/S1020728.JPG?updatedAt=1788889277297",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-205/S1020728.JPG?updatedAt=1788889277297",
-        "fileId": "6aa048bcead997d09af45feb"
-      },
-      {
         "name": "Copy_of_Coming1.gif",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-205/Copy_of_Coming1.gif?updatedAt=1789418196319",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-205/Copy_of_Coming1.gif?updatedAt=1789418196319",
@@ -4176,28 +4164,10 @@
     "lng": -76.9335697,
     "images": [
       {
-        "name": "Copy_of_Coming1.gif",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-206/Copy_of_Coming1.gif?updatedAt=1788889273700",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-206/Copy_of_Coming1.gif?updatedAt=1788889273700",
-        "fileId": "6aa048b9ead997d09af4561d"
-      },
-      {
-        "name": "S1030157.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-206/S1030157.JPG?updatedAt=1789418185704",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-206/S1030157.JPG?updatedAt=1789418185704",
-        "fileId": "6aa85ac8ead997d09a0f4b6c"
-      },
-      {
         "name": "S1030077.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-206/S1030077.JPG?updatedAt=1789418188506",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-206/S1030077.JPG?updatedAt=1789418188506",
         "fileId": "6aa85acbead997d09a0f537a"
-      },
-      {
-        "name": "S1030132.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-206/S1030132.JPG?updatedAt=1789418191870",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-206/S1030132.JPG?updatedAt=1789418191870",
-        "fileId": "6aa85acdead997d09a0f5960"
       },
       {
         "name": "Top_view_of_panel_layout_DSC_0011.JPG",
