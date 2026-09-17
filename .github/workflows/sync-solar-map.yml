@@ -203,8 +203,38 @@ jobs:
             return match ? match[1] : null;
           }
 
-          function extractProjectNumFromPath(filePath) {
-            const match = filePath.match(/project-(\d+)/i);
+          function deleteFromImageKit(fileId) {
+            return new Promise((resolve, reject) => {
+              const authStr = Buffer.from(IMAGEKIT_PRIVATE_KEY + ':').toString('base64');
+
+              const options = {
+                hostname: 'api.imagekit.io',
+                path: `/v1/files/${fileId}`,
+                method: 'DELETE',
+                headers: {
+                  'Authorization': `Basic ${authStr}`
+                }
+              };
+
+              const req = https.request(options, (res) => {
+                let data = '';
+                res.on('data', chunk => data += chunk);
+                res.on('end', () => {
+                  if (res.statusCode >= 200 && res.statusCode < 300) {
+                    resolve();
+                  } else {
+                    reject(new Error(`ImageKit delete failed (${res.statusCode}): ${data}`));
+                  }
+                });
+              });
+
+              req.on('error', reject);
+              req.end();
+            });
+          }
+
+          function extractProjectNum(str) {
+            const match = str.match(/^(\d+)/);
             return match ? match[1] : null;
           }
 
@@ -232,8 +262,8 @@ jobs:
               if (!file.filePath || !file.filePath.includes('/solar-map/')) continue;
               const projectNum = extractProjectNumFromPath(file.filePath);
               if (!projectNum) continue;
-              if (!existingByProject[projectNum]) existingByProject[projectNum] = new Set();
-              existingByProject[projectNum].add(file.name);
+              if (!existingByProject[projectNum]) existingByProject[projectNum] = new Map();
+              existingByProject[projectNum].set(file.name, file);
             }
             
             // Get Drive folders
@@ -242,15 +272,35 @@ jobs:
             
             let uploaded = 0;
             let skipped = 0;
+            let deleted = 0;
             
             for (const folder of folders) {
               const projectNum = extractProjectNum(folder.name);
               if (!projectNum) continue;
               
               const files = await getDriveFiles(folder.id);
-              if (files.length === 0) continue;
-              
-              const existingNames = existingByProject[projectNum] || new Set();
+
+              const existingProjectFiles = existingByProject[projectNum] || new Map();
+              const existingNames = new Set(existingProjectFiles.keys());
+
+              // Build a list of the images that currently exist in Google Drive
+              const driveNames = new Set(
+                files.map(file => file.name.replace(/[^a-zA-Z0-9._-]/g, '_'))
+              );
+
+              // Delete ImageKit images that no longer exist in Google Drive
+              for (const [imageKitName, imageKitFile] of existingProjectFiles) {
+                if (!driveNames.has(imageKitName)) {
+                  try {
+                    console.log(`   🗑️ Deleting: Project ${projectNum} - ${imageKitName}`);
+                    await deleteFromImageKit(imageKitFile.fileId);
+                    deleted++;
+                    await delay(200);
+                  } catch (err) {
+                    console.log(`   ❌ Delete failed: ${imageKitName} - ${err.message}`);
+                  }
+                }
+              }
               
               for (const file of files) {
                 // Sanitize filename to match how it's stored in ImageKit
@@ -273,7 +323,7 @@ jobs:
               }
             }
             
-            console.log(`   ✅ Uploaded: ${uploaded}, Skipped: ${skipped}`);
+            console.log(`   ✅ Uploaded: ${uploaded}, Deleted: ${deleted}, Skipped: ${skipped}`);
             return uploaded;
           }
 
