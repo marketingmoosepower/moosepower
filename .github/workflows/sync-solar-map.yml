@@ -238,6 +238,11 @@ jobs:
             return match ? match[1] : null;
           }
 
+          function extractProjectNumFromPath(filePath) {
+            const match = filePath.match(/project-(\d+)/i);
+            return match ? match[1] : null;
+          }
+
           function buildImageUrls(file) {
             const baseUrl = file.url;
             return {
