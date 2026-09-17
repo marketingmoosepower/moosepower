@@ -1163,7 +1163,9 @@ function renderGallery() {
 
   if (!galleryGrid) return;
 
-  const filtered = getFilteredProjects();
+  const filtered = getFilteredProjects().sort((a, b) => {
+  return (parseInt(b.year) || 0) - (parseInt(a.year) || 0);
+});
 
   galleryGrid.innerHTML = filtered.map(p => {
 
