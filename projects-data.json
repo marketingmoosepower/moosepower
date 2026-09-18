@@ -572,7 +572,7 @@
   {
     "projectNum": "41",
     "address": "30 Okra Tomar Cres, North York, ON M2J 0G9, Canada",
-    "owner": "TCHC",
+    "owner": "Toronto Community Housing Corporation",
     "capacity": 66.3,
     "year": 2023,
     "program": "NEM",
@@ -602,7 +602,7 @@
   {
     "projectNum": "42",
     "address": "20 New Heights Ct, Toronto, ON M6A 0C1, Canada",
-    "owner": "TCHC",
+    "owner": "Toronto Community Housing Corporation",
     "capacity": 84.175,
     "year": 2022,
     "program": "NEM",
@@ -638,7 +638,7 @@
   {
     "projectNum": "43",
     "address": "1615 Dundas St E, Toronto, ON M4L 1L2, Canada",
-    "owner": "TCHC",
+    "owner": "Toronto Community Housing Corporation",
     "capacity": 139.52,
     "year": 2024,
     "program": "NEM",
@@ -662,7 +662,7 @@
   {
     "projectNum": "44",
     "address": "135 Neptune Dr, Toronto, ON M6A 2Y3, Canada",
-    "owner": "TCHC",
+    "owner": "Toronto Community Housing Corporation",
     "capacity": 81.45,
     "year": 2024,
     "program": "NEM",
@@ -716,7 +716,7 @@
   {
     "projectNum": "45",
     "address": "145 Neptune Dr, Toronto, ON M6A 2Y4, Canada",
-    "owner": "TCHC",
+    "owner": "Toronto Community Housing Corporation",
     "capacity": 132.75,
     "year": 2024,
     "program": "NEM",
@@ -746,7 +746,7 @@
   {
     "projectNum": "46",
     "address": "155 Neptune Dr, Toronto, ON M6A 2Y3, Canada",
-    "owner": "TCHC",
+    "owner": "Toronto Community Housing Corporation",
     "capacity": 104.85,
     "year": 2024,
     "program": "NEM",
@@ -776,7 +776,7 @@
   {
     "projectNum": "47",
     "address": "4175 Lawrence Ave E, Scarborough, ON M1E 4T7, Canada",
-    "owner": "TCHC",
+    "owner": "Toronto Community Housing Corporation",
     "capacity": 114.54,
     "year": 2024,
     "program": "NEM",
@@ -812,7 +812,7 @@
   {
     "projectNum": "48",
     "address": "2 Lambertlodge Ave, Toronto, ON M6G 3Y9, Canada",
-    "owner": "TCHC",
+    "owner": "Toronto Community Housing Corporation",
     "capacity": 121.96,
     "year": 2025,
     "program": "NEM",
@@ -854,7 +854,7 @@
   {
     "projectNum": "49",
     "address": "90 Parma Ct, North York, ON M4A 1A4, Canada",
-    "owner": "TCHC",
+    "owner": "Toronto Community Housing Corporation",
     "capacity": 213.84,
     "year": 2025,
     "program": "NEM",
@@ -884,7 +884,7 @@
   {
     "projectNum": "50",
     "address": "75 Tandridge Crescent, Etobicoke, ON M9W 2N9, Canada",
-    "owner": "TCHC",
+    "owner": "Toronto Community Housing Corporation",
     "capacity": 285.12,
     "year": 2025,
     "program": "NEM",
@@ -914,7 +914,7 @@
   {
     "projectNum": "53",
     "address": "34 Oxford St, Toronto, ON M5T 2Y2, Canada",
-    "owner": "TCHC",
+    "owner": "Toronto Community Housing Corporation",
     "capacity": 186.3,
     "year": 2025,
     "program": "Load Displacement",
@@ -1484,7 +1484,7 @@
   {
     "projectNum": "87",
     "address": "277 Coleman St, Carleton Place, ON K7C 0B5, Canada",
-    "owner": "277 Coleman",
+    "owner": "Lepine Apartments",
     "capacity": 624.78,
     "year": 2025,
     "program": "NEM",
@@ -1550,7 +1550,7 @@
   {
     "projectNum": "92",
     "address": "1760 Finch Ave E, North York, ON M2J 5G3, Canada",
-    "owner": "Seneca CITE",
+    "owner": "Seneca College",
     "capacity": 164.25,
     "year": 2020,
     "program": "NEM",
@@ -1610,7 +1610,7 @@
   {
     "projectNum": "94",
     "address": "2241 Kilbride St, Burlington, ON L7P 0H6, Canada",
-    "owner": "Burlington Fire Hall",
+    "owner": "City of Burlington",
     "capacity": 29.7,
     "year": 2024,
     "program": "NEM",
@@ -1646,7 +1646,7 @@
   {
     "projectNum": "96",
     "address": "22312 Wonderland Rd N, Ilderton, ON N0M 2A0",
-    "owner": "Western ICFAR",
+    "owner": "Western University",
     "capacity": 81.27,
     "year": 2025,
     "program": "Other",
@@ -1696,23 +1696,23 @@
     "lng": -79.4602272,
     "images": [
       {
-        "name": "S1027818.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-97/S1027818.JPG?updatedAt=1766444010267",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-97/S1027818.JPG?updatedAt=1766444010267",
-        "fileId": "69454b6c5c7cd75eb89983a5"
-      },
-      {
         "name": "S1027832.JPG",
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-97/S1027832.JPG?updatedAt=1766444020106",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-97/S1027832.JPG?updatedAt=1766444020106",
         "fileId": "69454b785c7cd75eb899d479"
+      },
+      {
+        "name": "S1027812.JPG",
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-97/S1027812.JPG?updatedAt=1789759836984",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-97/S1027812.JPG?updatedAt=1789759836984",
+        "fileId": "6aad915cead997d09a2b017b"
       }
     ]
   },
   {
     "projectNum": "104",
     "address": "120 Tiffield Rd, Toronto, ON M1V 5N2, Canada",
-    "owner": "Atlantic",
+    "owner": "Atlantic Packaging",
     "capacity": 2123.28,
     "year": 2025,
     "program": "NEM",
@@ -1742,7 +1742,7 @@
   {
     "projectNum": "105",
     "address": "255 Brimley Rd, Toronto, ON M1M 3J2, Canada",
-    "owner": "Atlantic",
+    "owner": "Atlantic Packaging",
     "capacity": 822.96,
     "year": 2025,
     "program": "NEM",
@@ -1778,7 +1778,7 @@
   {
     "projectNum": "106",
     "address": "350 Midwest Rd, Scarborough, ON M1P 3A9, Canada",
-    "owner": "Atlantic",
+    "owner": "Atlantic Packaging",
     "capacity": 635.695,
     "year": 2024,
     "program": "Re-Power",
@@ -1802,7 +1802,7 @@
   {
     "projectNum": "108",
     "address": "727 Speedvale Ave W, Guelph, ON N1K 1E6, Canada",
-    "owner": "Heffner",
+    "owner": "Heffner Construction Group",
     "capacity": 66.96,
     "year": 2025,
     "program": "NEM",
@@ -1832,7 +1832,7 @@
   {
     "projectNum": "111",
     "address": "1605 McEwen Dr, Whitby, ON L1N 7L4, Canada",
-    "owner": "ACP",
+    "owner": "Atlantic Coated Papers",
     "capacity": 977.28,
     "year": 2025,
     "program": "NEM",
@@ -1856,36 +1856,6 @@
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-111/Photo_2025-06-04__6_15_14_PM.jpg?updatedAt=1768296313758",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-111/Photo_2025-06-04__6_15_14_PM.jpg?updatedAt=1768296313758",
         "fileId": "69454ce25c7cd75eb8a2ab84"
-      }
-    ]
-  },
-  {
-    "projectNum": "112",
-    "address": "100 Kellogg Ln, London, ON N5W 2T5, Canada",
-    "owner": "E & E Mclaughlin",
-    "capacity": 600,
-    "year": 2018,
-    "program": "FIT 4",
-    "projectType": "Rooftop",
-    "clientType": "Commercial",
-    "module": "Canadian Solar",
-    "racking": "Terragen",
-    "inverter": "Sungrow",
-    "notes": "",
-    "lat": 42.992534,
-    "lng": -81.2132917,
-    "images": [
-      {
-        "name": "DJI_0158.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-112/DJI_0158.JPG?updatedAt=1766438587062",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-112/DJI_0158.JPG?updatedAt=1766438587062",
-        "fileId": "69454cf05c7cd75eb8a2f98e"
-      },
-      {
-        "name": "DJI_0152.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-112/DJI_0152.JPG?updatedAt=1766438601768",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-112/DJI_0152.JPG?updatedAt=1766438601768",
-        "fileId": "69454cfe5c7cd75eb8a34a28"
       }
     ]
   },
@@ -2066,7 +2036,7 @@
   {
     "projectNum": "122",
     "address": "301 Tillson Ave, Tillsonburg, ON N4G 3B5, Canada",
-    "owner": "Skyline",
+    "owner": "Skyline Energy",
     "capacity": 399.3,
     "year": 2014,
     "program": "FIT 1",
@@ -2090,7 +2060,7 @@
   {
     "projectNum": "123",
     "address": "261 Tillson Ave, Tillsonburg, ON N4G 5X2, Canada",
-    "owner": "Skyline",
+    "owner": "Skyline Energy",
     "capacity": 201.3,
     "year": 2014,
     "program": "FIT 1",
@@ -2156,7 +2126,7 @@
   {
     "projectNum": "125",
     "address": "390 Orenda Rd, Brampton, ON L6T 1G8, Canada",
-    "owner": "Skyline",
+    "owner": "Skyline Energy",
     "capacity": 603.9,
     "year": 2014,
     "program": "FIT 1",
@@ -2192,7 +2162,7 @@
   {
     "projectNum": "126",
     "address": "7325 Bramalea Rd, Mississauga, ON L5S 1C5, Canada",
-    "owner": "Skyline",
+    "owner": "Skyline Energy",
     "capacity": 137.25,
     "year": 2014,
     "program": "FIT 1",
@@ -2384,7 +2354,7 @@
   {
     "projectNum": "133",
     "address": "3131 King St E, Kitchener, ON N2A 1B1, Canada",
-    "owner": "Heffner",
+    "owner": "Heffner Construction Group",
     "capacity": 220.48,
     "year": 2014,
     "program": "FIT 1",
@@ -2665,7 +2635,7 @@
   {
     "projectNum": "144",
     "address": "4080 North Service Road E (307 - 344 Dupont St., Toronto, ON, M5R 1V9)",
-    "owner": "Placeholder",
+    "owner": "Unkown",
     "capacity": 383.04,
     "year": 2014,
     "program": "FIT 1",
@@ -2701,7 +2671,14 @@
     "notes": "",
     "lat": 43.93006,
     "lng": -78.54395,
-    "images": []
+    "images": [
+      {
+        "name": "Copy_of_Coming1.gif",
+        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-146/Copy_of_Coming1.gif?updatedAt=1789726029739",
+        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-146/Copy_of_Coming1.gif?updatedAt=1789726029739",
+        "fileId": "6aad0d4cead997d09aeb4560"
+      }
+    ]
   },
   {
     "projectNum": "147",
@@ -2723,7 +2700,7 @@
   {
     "projectNum": "150",
     "address": "2290 Scanlan St, London, ON N5W 6G7, Canada",
-    "owner": "Skyline",
+    "owner": "Skyline Energy",
     "capacity": 597.19,
     "year": 2015,
     "program": "FIT 2",
@@ -2765,7 +2742,7 @@
   {
     "projectNum": "151",
     "address": "970 Pond Mills Rd, London, ON N6N 1A2, Canada",
-    "owner": "E&E/Skyline",
+    "owner": "E&E/Skyline Energy",
     "capacity": 597.19,
     "year": 2015,
     "program": "FIT 2",
@@ -2789,7 +2766,7 @@
   {
     "projectNum": "152",
     "address": "1000 Clarke Rd, London, ON N5V 3A9, Canada",
-    "owner": "E&E/Skyline",
+    "owner": "E&E/Skyline Energy",
     "capacity": 452.925,
     "year": 2015,
     "program": "FIT 2",
@@ -2813,7 +2790,7 @@
   {
     "projectNum": "153",
     "address": "99 Ash St, London, ON N5Z 1K9, Canada",
-    "owner": "E&E/Skyline",
+    "owner": "E&E/Skyline Energy",
     "capacity": 184.14,
     "year": 2015,
     "program": "FIT 2",
@@ -2837,7 +2814,7 @@
   {
     "projectNum": "154",
     "address": "1875 Wharncliffe Rd S, London, ON N6L 1K2, Canada",
-    "owner": "E&E/Skyline",
+    "owner": "E&E/Skyline Energy",
     "capacity": 251.1,
     "year": 2015,
     "program": "FIT 2",
@@ -2861,7 +2838,7 @@
   {
     "projectNum": "155",
     "address": "982 Hubrey Rd, London, ON N6N 1B5, Canada",
-    "owner": "E&E/Skyline",
+    "owner": "E&E/Skyline Energy",
     "capacity": 274.5,
     "year": 2015,
     "program": "FIT 2",
@@ -3184,7 +3161,7 @@
   {
     "projectNum": "168",
     "address": "28 Mill St W, Tilbury, ON N0P 2L0, Canada",
-    "owner": "Skyline",
+    "owner": "Skyline Energy",
     "capacity": 599.04,
     "year": 2017,
     "program": "FIT 3",
@@ -3220,7 +3197,7 @@
   {
     "projectNum": "169",
     "address": "100 King St W, Chatham, ON N7M 6A9, Canada",
-    "owner": "Skyline",
+    "owner": "Skyline Energy",
     "capacity": 599.04,
     "year": 2017,
     "program": "FIT 3",
@@ -3256,7 +3233,7 @@
   {
     "projectNum": "170",
     "address": "102 Arnold St, Wallaceburg, ON N8A 3P4",
-    "owner": "Skyline",
+    "owner": "Skyline Energy",
     "capacity": 599.04,
     "year": 2017,
     "program": "FIT 3",
@@ -3298,7 +3275,7 @@
   {
     "projectNum": "171",
     "address": "110 Arnold Ave, Vaughan, ON L4J 1B5, Canada",
-    "owner": "Skyline",
+    "owner": "Skyline Energy",
     "capacity": 395.2,
     "year": 2017,
     "program": "FIT 3",
@@ -3334,7 +3311,7 @@
   {
     "projectNum": "172",
     "address": "462 Riverview Dr, Chatham, ON N7M 5J5, Canada",
-    "owner": "Skyline",
+    "owner": "Skyline Energy",
     "capacity": 225.28,
     "year": 2017,
     "program": "FIT 3",
@@ -3448,7 +3425,7 @@
   {
     "projectNum": "178",
     "address": "390 Thomas St, Ingersoll, ON N5C 2G7, Canada",
-    "owner": "Skyline",
+    "owner": "Skyline Energy",
     "capacity": 599.04,
     "year": 2018,
     "program": "FIT 4",
@@ -3478,7 +3455,7 @@
   {
     "projectNum": "180",
     "address": "100 Kellogg Ln, London, ON N5W 2T5, Canada",
-    "owner": "100 Kellogg",
+    "owner": "E & E McLaughlin",
     "capacity": 599.94,
     "year": 2018,
     "program": "FIT 4",
@@ -3994,7 +3971,7 @@
   {
     "projectNum": "200",
     "address": "140 Goddard Cres, Cambridge, ON N3E 0A9",
-    "owner": "Heffner Development Group",
+    "owner": "Heffner Construction Group",
     "capacity": 134,
     "year": 2026,
     "program": "Re-Power",
@@ -4018,7 +3995,7 @@
   {
     "projectNum": "201",
     "address": "60 East Beaver Creek Rd, Richmond Hill, ON L4B 1L3",
-    "owner": "Auction Mongers",
+    "owner": "Dream",
     "capacity": 876,
     "year": 2026,
     "program": "Re-Power",
@@ -4048,7 +4025,7 @@
   {
     "projectNum": "202",
     "address": "7325 Bramalea Rd, Mississauga, ON L5S 1C5, Canada",
-    "owner": "Skyline",
+    "owner": "Skyline Energy",
     "capacity": 232,
     "year": 2026,
     "program": "Re-Power",
@@ -4066,36 +4043,6 @@
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-202/S1029491.JPG?updatedAt=1788889283421",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-202/S1029491.JPG?updatedAt=1788889283421",
         "fileId": "6aa048c2ead997d09af47a06"
-      }
-    ]
-  },
-  {
-    "projectNum": "203",
-    "address": "1011 Sheppard Ave W, North York, ON M3H 2T7",
-    "owner": "Heffner Development Group",
-    "capacity": 35,
-    "year": 2026,
-    "program": "NEM",
-    "projectType": "Rooftop",
-    "clientType": "Commercial",
-    "module": "Longi",
-    "racking": "HB Racking",
-    "inverter": "Solis",
-    "notes": "",
-    "lat": 43.7506351,
-    "lng": -79.4602272,
-    "images": [
-      {
-        "name": "S1027830.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-203/S1027830.JPG?updatedAt=1788889280192",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-203/S1027830.JPG?updatedAt=1788889280192",
-        "fileId": "6aa048bfead997d09af46fad"
-      },
-      {
-        "name": "S1027812.JPG",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-203/S1027812.JPG?updatedAt=1788889281565",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-203/S1027812.JPG?updatedAt=1788889281565",
-        "fileId": "6aa048c1ead997d09af47489"
       }
     ]
   },
@@ -4126,7 +4073,7 @@
   {
     "projectNum": "205",
     "address": "261 Tillson Ave, Tillsonburg, ON N4G 5X2",
-    "owner": "Skyline",
+    "owner": "Skyline Energy",
     "capacity": 375,
     "year": 2026,
     "program": "Re-Power",
@@ -4150,7 +4097,7 @@
   {
     "projectNum": "206",
     "address": "750 Goodyear Rd, Greater Napanee, ON K7R 3L2",
-    "owner": "Skyline",
+    "owner": "Skyline Energy",
     "capacity": 15000,
     "year": 2026,
     "program": "Re-Power",
