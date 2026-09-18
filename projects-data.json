@@ -2634,8 +2634,8 @@
   },
   {
     "projectNum": "144",
-    "address": "4080 North Service Road E (307 - 344 Dupont St., Toronto, ON, M5R 1V9)",
-    "owner": "Unkown",
+    "address": "4080 N Service Rd, Burlington, ON L7L 4X7",
+    "owner": "Moose Power Inc",
     "capacity": 383.04,
     "year": 2014,
     "program": "FIT 1",
@@ -2645,8 +2645,8 @@
     "racking": "HB Racking",
     "inverter": "Advanced Energy",
     "notes": "",
-    "lat": 43.6746193,
-    "lng": -79.4098561,
+    "lat": 43.3794082,
+    "lng": -79.7743916,
     "images": [
       {
         "name": "Coming1.gif",
@@ -2862,7 +2862,7 @@
   {
     "projectNum": "156",
     "address": "105 Industrial Dr, Whitby, ON L1N 5Z9, Canada",
-    "owner": "Unkown",
+    "owner": "Nautilus Green Energy",
     "capacity": 203.13,
     "year": 2015,
     "program": "FIT 2",
@@ -2886,7 +2886,7 @@
   {
     "projectNum": "157",
     "address": "377 MacKenzie Ave, Ajax, ON L1S 2E2, Canada",
-    "owner": "Unkown",
+    "owner": "Nautilus Green Energy",
     "capacity": 214.11,
     "year": 2015,
     "program": "FIT 2",
@@ -2922,7 +2922,7 @@
   {
     "projectNum": "158",
     "address": "601 Canarctic, Toronto, ON M3J 2P9, Canada",
-    "owner": "Unkown",
+    "owner": "Saugeen First Nation",
     "capacity": 225.06,
     "year": 2015,
     "program": "FIT 2",
