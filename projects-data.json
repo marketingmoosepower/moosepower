@@ -3969,30 +3969,6 @@
     ]
   },
   {
-    "projectNum": "200",
-    "address": "140 Goddard Cres, Cambridge, ON N3E 0A9",
-    "owner": "Heffner Construction Group",
-    "capacity": 134,
-    "year": 2026,
-    "program": "Re-Power",
-    "projectType": "Rooftop",
-    "clientType": "Commercial",
-    "module": "Longi",
-    "racking": "Terragen",
-    "inverter": "Solis",
-    "notes": "",
-    "lat": 43.4233434,
-    "lng": -80.3550726,
-    "images": [
-      {
-        "name": "Copy_of_Coming1.gif",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-200/Copy_of_Coming1.gif?updatedAt=1788889295354",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-200/Copy_of_Coming1.gif?updatedAt=1788889295354",
-        "fileId": "6aa048cfead997d09af4a530"
-      }
-    ]
-  },
-  {
     "projectNum": "201",
     "address": "60 East Beaver Creek Rd, Richmond Hill, ON L4B 1L3",
     "owner": "Dream",
@@ -4043,54 +4019,6 @@
         "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-202/S1029491.JPG?updatedAt=1788889283421",
         "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-202/S1029491.JPG?updatedAt=1788889283421",
         "fileId": "6aa048c2ead997d09af47a06"
-      }
-    ]
-  },
-  {
-    "projectNum": "204",
-    "address": "1130 Guelph Line, Burlington, ON L7P 2S8",
-    "owner": "Dymon Storage",
-    "capacity": 221,
-    "year": 2026,
-    "program": "NEM",
-    "projectType": "Rooftop",
-    "clientType": "Commercial",
-    "module": "Canadian Solar",
-    "racking": "Terragen",
-    "inverter": "Canadian Solar",
-    "notes": "",
-    "lat": 43.3548316,
-    "lng": -79.8085727,
-    "images": [
-      {
-        "name": "Copy_of_Coming1.gif",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-204/Copy_of_Coming1.gif?updatedAt=1788889278477",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-204/Copy_of_Coming1.gif?updatedAt=1788889278477",
-        "fileId": "6aa048beead997d09af46ab6"
-      }
-    ]
-  },
-  {
-    "projectNum": "205",
-    "address": "261 Tillson Ave, Tillsonburg, ON N4G 5X2",
-    "owner": "Skyline Energy",
-    "capacity": 375,
-    "year": 2026,
-    "program": "Re-Power",
-    "projectType": "Rooftop",
-    "clientType": "Commercial",
-    "module": "Longi",
-    "racking": "HB Racking",
-    "inverter": "Solis",
-    "notes": "",
-    "lat": 42.8745679,
-    "lng": -80.7267742,
-    "images": [
-      {
-        "name": "Copy_of_Coming1.gif",
-        "url": "https://ik.imagekit.io/repqospri/solar-map/tr:q-auto,f-auto/project-205/Copy_of_Coming1.gif?updatedAt=1789418196319",
-        "thumbnail": "https://ik.imagekit.io/repqospri/solar-map/tr:w-300,h-200,c-at_max,q-auto,f-auto/project-205/Copy_of_Coming1.gif?updatedAt=1789418196319",
-        "fileId": "6aa85ad3ead997d09a0f6a66"
       }
     ]
   },
